@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/wav2letter/build/src/tests/CMakeFiles/gtest"
+		},
+		{
+			"file" : "/root/wav2letter/build/src/tests/CMakeFiles/gtest.rule"
+		},
+		{
+			"file" : "/root/wav2letter/build/src/tests/CMakeFiles/gtest-complete.rule"
+		},
+		{
+			"file" : "/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-install.rule"
+		},
+		{
+			"file" : "/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-mkdir.rule"
+		},
+		{
+			"file" : "/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-download.rule"
+		},
+		{
+			"file" : "/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-update.rule"
+		},
+		{
+			"file" : "/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-patch.rule"
+		},
+		{
+			"file" : "/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-configure.rule"
+		},
+		{
+			"file" : "/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gtest"
+		],
+		"name" : "gtest"
+	}
+}

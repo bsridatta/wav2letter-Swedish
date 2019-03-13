@@ -1,0 +1,666 @@
+Start testing: Mar 08 20:27 UTC
+----------------------------------------------------------
+1/19 Testing: W2lCommonTest
+1/19 Test: W2lCommonTest
+Command: "/root/wav2letter/build/src/tests/W2lCommonTest"
+Directory: /root/wav2letter/build/src/tests
+"W2lCommonTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 14 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 14 tests from W2lCommonTest
+[ RUN      ] W2lCommonTest.StringTrim
+[       OK ] W2lCommonTest.StringTrim (0 ms)
+[ RUN      ] W2lCommonTest.ReplaceAll
+[       OK ] W2lCommonTest.ReplaceAll (0 ms)
+[ RUN      ] W2lCommonTest.StringSplit
+[       OK ] W2lCommonTest.StringSplit (0 ms)
+[ RUN      ] W2lCommonTest.StringJoin
+[       OK ] W2lCommonTest.StringJoin (0 ms)
+[ RUN      ] W2lCommonTest.StringFormat
+[       OK ] W2lCommonTest.StringFormat (0 ms)
+[ RUN      ] W2lCommonTest.PathsConcat
+[       OK ] W2lCommonTest.PathsConcat (0 ms)
+[ RUN      ] W2lCommonTest.Replabel
+[       OK ] W2lCommonTest.Replabel (0 ms)
+[ RUN      ] W2lCommonTest.Dictionary
+[       OK ] W2lCommonTest.Dictionary (0 ms)
+[ RUN      ] W2lCommonTest.InvReplabel
+[       OK ] W2lCommonTest.InvReplabel (0 ms)
+[ RUN      ] W2lCommonTest.Uniq
+[       OK ] W2lCommonTest.Uniq (0 ms)
+[ RUN      ] W2lCommonTest.Normalize
+[       OK ] W2lCommonTest.Normalize (8 ms)
+[ RUN      ] W2lCommonTest.Transpose
+[       OK ] W2lCommonTest.Transpose (9 ms)
+[ RUN      ] W2lCommonTest.localNormalize
+[       OK ] W2lCommonTest.localNormalize (680 ms)
+[ RUN      ] W2lCommonTest.AfToVectorString
+[       OK ] W2lCommonTest.AfToVectorString (0 ms)
+[----------] 14 tests from W2lCommonTest (698 ms total)
+
+[----------] Global test environment tear-down
+[==========] 14 tests from 1 test case ran. (698 ms total)
+[  PASSED  ] 14 tests.
+<end of output>
+Test time =   0.73 sec
+----------------------------------------------------------
+Test Passed.
+"W2lCommonTest" end time: Mar 08 20:27 UTC
+"W2lCommonTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/19 Testing: CriterionTest
+2/19 Test: CriterionTest
+Command: "/root/wav2letter/build/src/tests/CriterionTest"
+Directory: /root/wav2letter/build/src/tests
+"CriterionTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 17 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 17 tests from CriterionTest
+[ RUN      ] CriterionTest.CTCEmptyTarget
+[       OK ] CriterionTest.CTCEmptyTarget (16 ms)
+[ RUN      ] CriterionTest.CTCCost
+[       OK ] CriterionTest.CTCCost (1 ms)
+[ RUN      ] CriterionTest.CTCJacobian
+[       OK ] CriterionTest.CTCJacobian (2264 ms)
+[ RUN      ] CriterionTest.Batching
+[       OK ] CriterionTest.Batching (881 ms)
+[ RUN      ] CriterionTest.CTCCompareTensorflow
+[       OK ] CriterionTest.CTCCompareTensorflow (1 ms)
+[ RUN      ] CriterionTest.ViterbiPath
+[       OK ] CriterionTest.ViterbiPath (3 ms)
+[ RUN      ] CriterionTest.FCCCost
+[       OK ] CriterionTest.FCCCost (44 ms)
+[ RUN      ] CriterionTest.FCCJacobian
+[       OK ] CriterionTest.FCCJacobian (20 ms)
+[ RUN      ] CriterionTest.FACCost
+[       OK ] CriterionTest.FACCost (0 ms)
+[ RUN      ] CriterionTest.FACJacobian
+[       OK ] CriterionTest.FACJacobian (28 ms)
+[ RUN      ] CriterionTest.ASGCost
+[       OK ] CriterionTest.ASGCost (1 ms)
+[ RUN      ] CriterionTest.ASGJacobian
+[       OK ] CriterionTest.ASGJacobian (49 ms)
+[ RUN      ] CriterionTest.LinSegJacobian
+[       OK ] CriterionTest.LinSegJacobian (55 ms)
+[ RUN      ] CriterionTest.ASGBatching
+[       OK ] CriterionTest.ASGBatching (368 ms)
+[ RUN      ] CriterionTest.ASGCompareLua
+[       OK ] CriterionTest.ASGCompareLua (1 ms)
+[ RUN      ] CriterionTest.LinSegCompareLua
+[       OK ] CriterionTest.LinSegCompareLua (0 ms)
+[ RUN      ] CriterionTest.AsgSerialization
+[       OK ] CriterionTest.AsgSerialization (14 ms)
+[----------] 17 tests from CriterionTest (3746 ms total)
+
+[----------] Global test environment tear-down
+[==========] 17 tests from 1 test case ran. (3746 ms total)
+[  PASSED  ] 17 tests.
+<end of output>
+Test time =   3.77 sec
+----------------------------------------------------------
+Test Passed.
+"CriterionTest" end time: Mar 08 20:27 UTC
+"CriterionTest" time elapsed: 00:00:03
+----------------------------------------------------------
+
+3/19 Testing: Seq2SeqTest
+3/19 Test: Seq2SeqTest
+Command: "/root/wav2letter/build/src/tests/Seq2SeqTest"
+Directory: /root/wav2letter/build/src/tests
+"Seq2SeqTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 9 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 9 tests from Seq2SeqTest
+[ RUN      ] Seq2SeqTest.Seq2Seq
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] Seq2SeqTest.Seq2Seq (2 ms)
+[ RUN      ] Seq2SeqTest.Seq2SeqViterbi
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] Seq2SeqTest.Seq2SeqViterbi (70 ms)
+[ RUN      ] Seq2SeqTest.Seq2SeqBeamSearchViterbi
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] Seq2SeqTest.Seq2SeqBeamSearchViterbi (0 ms)
+[ RUN      ] Seq2SeqTest.Seq2SeqMedianWindow
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] Seq2SeqTest.Seq2SeqMedianWindow (1 ms)
+[ RUN      ] Seq2SeqTest.Seq2SeqStepWindow
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] Seq2SeqTest.Seq2SeqStepWindow (0 ms)
+[ RUN      ] Seq2SeqTest.Seq2SeqStepWindowVectorized
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] Seq2SeqTest.Seq2SeqStepWindowVectorized (60 ms)
+[ RUN      ] Seq2SeqTest.Seq2SeqAttn
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] Seq2SeqTest.Seq2SeqAttn (0 ms)
+[ RUN      ] Seq2SeqTest.Serialization
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] Seq2SeqTest.Serialization (1 ms)
+[ RUN      ] Seq2SeqTest.BatchedDecoderStep
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] Seq2SeqTest.BatchedDecoderStep (1 ms)
+[----------] 9 tests from Seq2SeqTest (135 ms total)
+
+[----------] Global test environment tear-down
+[==========] 9 tests from 1 test case ran. (135 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 9 tests, listed below:
+[  FAILED  ] Seq2SeqTest.Seq2Seq
+[  FAILED  ] Seq2SeqTest.Seq2SeqViterbi
+[  FAILED  ] Seq2SeqTest.Seq2SeqBeamSearchViterbi
+[  FAILED  ] Seq2SeqTest.Seq2SeqMedianWindow
+[  FAILED  ] Seq2SeqTest.Seq2SeqStepWindow
+[  FAILED  ] Seq2SeqTest.Seq2SeqStepWindowVectorized
+[  FAILED  ] Seq2SeqTest.Seq2SeqAttn
+[  FAILED  ] Seq2SeqTest.Serialization
+[  FAILED  ] Seq2SeqTest.BatchedDecoderStep
+
+ 9 FAILED TESTS
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Failed.
+"Seq2SeqTest" end time: Mar 08 20:27 UTC
+"Seq2SeqTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/19 Testing: AttentionTest
+4/19 Test: AttentionTest
+Command: "/root/wav2letter/build/src/tests/AttentionTest"
+Directory: /root/wav2letter/build/src/tests
+"AttentionTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from AttentionTest
+[ RUN      ] AttentionTest.NeuralContentAttention
+[       OK ] AttentionTest.NeuralContentAttention (44 ms)
+[----------] 1 test from AttentionTest (44 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (44 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"AttentionTest" end time: Mar 08 20:27 UTC
+"AttentionTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/19 Testing: WindowTest
+5/19 Test: WindowTest
+Command: "/root/wav2letter/build/src/tests/WindowTest"
+Directory: /root/wav2letter/build/src/tests
+"WindowTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 3 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 3 tests from WindowTest
+[ RUN      ] WindowTest.MedianWindow
+[       OK ] WindowTest.MedianWindow (2 ms)
+[ RUN      ] WindowTest.StepWindow
+[       OK ] WindowTest.StepWindow (4 ms)
+[ RUN      ] WindowTest.SoftWindow
+[       OK ] WindowTest.SoftWindow (1 ms)
+[----------] 3 tests from WindowTest (7 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test case ran. (7 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"WindowTest" end time: Mar 08 20:27 UTC
+"WindowTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/19 Testing: DataTest
+6/19 Test: DataTest
+Command: "/root/wav2letter/build/src/tests/DataTest"
+Directory: /root/wav2letter/build/src/tests
+"DataTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 2 test cases.
+[----------] Global test environment set-up.
+[----------] 5 tests from DataTest
+[ RUN      ] DataTest.inputFeaturizer
+[       OK ] DataTest.inputFeaturizer (486 ms)
+[ RUN      ] DataTest.targetFeaturizer
+[       OK ] DataTest.targetFeaturizer (1 ms)
+[ RUN      ] DataTest.NumberedFilesLoader
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0308 20:27:55.624434   193 NumberedFilesLoader.cpp:29] Adding dataset /root/wav2letter/src/data/test/testdata/dataset ...
+I0308 20:27:55.624963   193 NumberedFilesLoader.cpp:68] 3 files found. 
+[       OK ] DataTest.NumberedFilesLoader (1 ms)
+[ RUN      ] DataTest.W2lDataset
+I0308 20:27:55.625736   193 NumberedFilesLoader.cpp:29] Adding dataset /root/wav2letter/src/data/test/testdata/dataset ...
+I0308 20:27:55.625962   193 NumberedFilesLoader.cpp:68] 3 files found. 
+I0308 20:27:55.626231   193 Utils.cpp:102] Filtered 0/3 samples
+I0308 20:27:55.626250   193 W2lNumberedFilesDataset.cpp:57] Total batches (i.e. iters): 3
+[       OK ] DataTest.W2lDataset (2 ms)
+[ RUN      ] DataTest.W2lDatasetDeterministicSampling
+I0308 20:27:55.627729   193 NumberedFilesLoader.cpp:29] Adding dataset /root/wav2letter/src/data/test/testdata/dataset/train ...
+I0308 20:27:55.628075   193 NumberedFilesLoader.cpp:68] 1 files found. 
+I0308 20:27:55.628182   193 Utils.cpp:102] Filtered 0/1 samples
+I0308 20:27:55.628202   193 W2lNumberedFilesDataset.cpp:57] Total batches (i.e. iters): 1
+[       OK ] DataTest.W2lDatasetDeterministicSampling (5 ms)
+[----------] 5 tests from DataTest (495 ms total)
+
+[----------] 1 test from RoundRobinBatchShufflerTest
+[ RUN      ] RoundRobinBatchShufflerTest.params
+[       OK ] RoundRobinBatchShufflerTest.params (0 ms)
+[----------] 1 test from RoundRobinBatchShufflerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 2 test cases ran. (495 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.52 sec
+----------------------------------------------------------
+Test Passed.
+"DataTest" end time: Mar 08 20:27 UTC
+"DataTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/19 Testing: DecoderTest
+7/19 Test: DecoderTest
+Command: "/root/wav2letter/build/src/tests/DecoderTest"
+Directory: /root/wav2letter/build/src/tests
+"DecoderTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from DecoderTest
+[ RUN      ] DecoderTest.run
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0308 20:27:55.658201   249 DecoderTest.cpp:79] [Serialization] Loaded emissions [235 x 29]
+I0308 20:27:55.788585   249 Utils.cpp:337] [Words] 26710 tokens loaded.
+I0308 20:27:55.798241   249 DecoderTest.cpp:86] [Dictionary] Number of words: 26710
+Loading the LM will be faster if you build a binary file.
+Reading /root/wav2letter/src/decoder/test/lm.arpa
+----5---10---15---20---25---30---35---40---45---50---55---60---65---70---75---80---85---90---95--100
+****************************************************************************************************
+I0308 20:27:55.828238   249 DecoderTest.cpp:91] [Decoder] LM constructed.
+I0308 20:27:55.904425   249 DecoderTest.cpp:133] [Decoder] Trie planted.
+I0308 20:27:55.912652   249 DecoderTest.cpp:137] [Decoder] Trie smeared.
+I0308 20:27:55.912732   249 DecoderTest.cpp:152] [Decoder] Decoder constructed.
+[       OK ] DecoderTest.run (1463 ms)
+[----------] 1 test from DecoderTest (1466 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1467 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.49 sec
+----------------------------------------------------------
+Test Passed.
+"DecoderTest" end time: Mar 08 20:27 UTC
+"DecoderTest" time elapsed: 00:00:01
+----------------------------------------------------------
+
+8/19 Testing: CeplifterTest
+8/19 Test: CeplifterTest
+Command: "/root/wav2letter/build/src/tests/CeplifterTest"
+Directory: /root/wav2letter/build/src/tests
+"CeplifterTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from CeplifterTest
+[ RUN      ] CeplifterTest.matlabCompareTest
+[       OK ] CeplifterTest.matlabCompareTest (0 ms)
+[ RUN      ] CeplifterTest.batchingTest
+[       OK ] CeplifterTest.batchingTest (0 ms)
+[----------] 2 tests from CeplifterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"CeplifterTest" end time: Mar 08 20:27 UTC
+"CeplifterTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/19 Testing: DctTest
+9/19 Test: DctTest
+Command: "/root/wav2letter/build/src/tests/DctTest"
+Directory: /root/wav2letter/build/src/tests
+"DctTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from DctTest
+[ RUN      ] DctTest.matlabCompareTest
+[       OK ] DctTest.matlabCompareTest (4 ms)
+[ RUN      ] DctTest.batchingTest
+[       OK ] DctTest.batchingTest (47 ms)
+[----------] 2 tests from DctTest (51 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (51 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"DctTest" end time: Mar 08 20:27 UTC
+"DctTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/19 Testing: DerivativesTest
+10/19 Test: DerivativesTest
+Command: "/root/wav2letter/build/src/tests/DerivativesTest"
+Directory: /root/wav2letter/build/src/tests
+"DerivativesTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from DerivativesTest
+[ RUN      ] DerivativesTest.matlabCompareTest
+[       OK ] DerivativesTest.matlabCompareTest (0 ms)
+[ RUN      ] DerivativesTest.batchingTest
+[       OK ] DerivativesTest.batchingTest (0 ms)
+[----------] 2 tests from DerivativesTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"DerivativesTest" end time: Mar 08 20:27 UTC
+"DerivativesTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/19 Testing: DitherTest
+11/19 Test: DitherTest
+Command: "/root/wav2letter/build/src/tests/DitherTest"
+Directory: /root/wav2letter/build/src/tests
+"DitherTest" start time: Mar 08 20:27 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from DitherTest
+[ RUN      ] DitherTest.basicTest
+[       OK ] DitherTest.basicTest (8004 ms)
+[----------] 1 test from DitherTest (8004 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (8004 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   8.03 sec
+----------------------------------------------------------
+Test Passed.
+"DitherTest" end time: Mar 08 20:28 UTC
+"DitherTest" time elapsed: 00:00:08
+----------------------------------------------------------
+
+12/19 Testing: MfccTest
+12/19 Test: MfccTest
+Command: "/root/wav2letter/build/src/tests/MfccTest"
+Directory: /root/wav2letter/build/src/tests
+"MfccTest" start time: Mar 08 20:28 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 5 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 5 tests from MfccTest
+[ RUN      ] MfccTest.htkCompareTest
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0308 20:28:05.506081   414 MfccTest.cpp:85] | Max diff across all dimensions 0.325768
+I0308 20:28:05.506175   414 MfccTest.cpp:87] | Avg diff across all dimensions 0.0231418
+[       OK ] MfccTest.htkCompareTest (185 ms)
+[ RUN      ] MfccTest.BatchingTest
+[       OK ] MfccTest.BatchingTest (207 ms)
+[ RUN      ] MfccTest.BatchingTest2
+[       OK ] MfccTest.BatchingTest2 (2 ms)
+[ RUN      ] MfccTest.EmptyTest
+[       OK ] MfccTest.EmptyTest (15 ms)
+[ RUN      ] MfccTest.ZeroInputTest
+[       OK ] MfccTest.ZeroInputTest (0 ms)
+[----------] 5 tests from MfccTest (410 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test case ran. (410 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"MfccTest" end time: Mar 08 20:28 UTC
+"MfccTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/19 Testing: PreEmphasisTest
+13/19 Test: PreEmphasisTest
+Command: "/root/wav2letter/build/src/tests/PreEmphasisTest"
+Directory: /root/wav2letter/build/src/tests
+"PreEmphasisTest" start time: Mar 08 20:28 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from PreEmphasisTest
+[ RUN      ] PreEmphasisTest.matlabCompareTest
+[       OK ] PreEmphasisTest.matlabCompareTest (0 ms)
+[ RUN      ] PreEmphasisTest.batchingTest
+[       OK ] PreEmphasisTest.batchingTest (0 ms)
+[----------] 2 tests from PreEmphasisTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PreEmphasisTest" end time: Mar 08 20:28 UTC
+"PreEmphasisTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/19 Testing: SoundTest
+14/19 Test: SoundTest
+Command: "/root/wav2letter/build/src/tests/SoundTest"
+Directory: /root/wav2letter/build/src/tests
+"SoundTest" start time: Mar 08 20:28 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from SoundTest
+[ RUN      ] SoundTest.Mono
+[       OK ] SoundTest.Mono (34 ms)
+[ RUN      ] SoundTest.Stereo
+[       OK ] SoundTest.Stereo (42 ms)
+[----------] 2 tests from SoundTest (76 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (76 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"SoundTest" end time: Mar 08 20:28 UTC
+"SoundTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/19 Testing: SpeechUtilsTest
+15/19 Test: SpeechUtilsTest
+Command: "/root/wav2letter/build/src/tests/SpeechUtilsTest"
+Directory: /root/wav2letter/build/src/tests
+"SpeechUtilsTest" start time: Mar 08 20:28 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from SpeechUtilsTest
+[ RUN      ] SpeechUtilsTest.SimpleMatmul
+[       OK ] SpeechUtilsTest.SimpleMatmul (29 ms)
+[ RUN      ] SpeechUtilsTest.AfMatmulCompare
+[       OK ] SpeechUtilsTest.AfMatmulCompare (914 ms)
+[----------] 2 tests from SpeechUtilsTest (944 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (944 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.97 sec
+----------------------------------------------------------
+Test Passed.
+"SpeechUtilsTest" end time: Mar 08 20:28 UTC
+"SpeechUtilsTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/19 Testing: TriFilterbankTest
+16/19 Test: TriFilterbankTest
+Command: "/root/wav2letter/build/src/tests/TriFilterbankTest"
+Directory: /root/wav2letter/build/src/tests
+"TriFilterbankTest" start time: Mar 08 20:28 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from TriFilterbankTest
+[ RUN      ] TriFilterbankTest.matlabCompareTest
+[       OK ] TriFilterbankTest.matlabCompareTest (4 ms)
+[ RUN      ] TriFilterbankTest.batchingTest
+[       OK ] TriFilterbankTest.batchingTest (15 ms)
+[----------] 2 tests from TriFilterbankTest (19 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (19 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TriFilterbankTest" end time: Mar 08 20:28 UTC
+"TriFilterbankTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/19 Testing: WindowingTest
+17/19 Test: WindowingTest
+Command: "/root/wav2letter/build/src/tests/WindowingTest"
+Directory: /root/wav2letter/build/src/tests
+"WindowingTest" start time: Mar 08 20:28 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 3 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 3 tests from WindowingTest
+[ RUN      ] WindowingTest.hammingCoeffsTest
+[       OK ] WindowingTest.hammingCoeffsTest (0 ms)
+[ RUN      ] WindowingTest.hanningCoeffsTest
+[       OK ] WindowingTest.hanningCoeffsTest (0 ms)
+[ RUN      ] WindowingTest.batchingTest
+[       OK ] WindowingTest.batchingTest (0 ms)
+[----------] 3 tests from WindowingTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"WindowingTest" end time: Mar 08 20:28 UTC
+"WindowingTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/19 Testing: W2lModuleTest
+18/19 Test: W2lModuleTest
+Command: "/root/wav2letter/build/src/tests/W2lModuleTest"
+Directory: /root/wav2letter/build/src/tests
+"W2lModuleTest" start time: Mar 08 20:28 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from W2lModuleTest
+[ RUN      ] W2lModuleTest.W2lSeqModule
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] W2lModuleTest.W2lSeqModule (287 ms)
+[ RUN      ] W2lModuleTest.Serialization
+unknown file: Failure
+C++ exception with description "rnn not yet implemented on CPU" thrown in the test body.
+[  FAILED  ] W2lModuleTest.Serialization (53 ms)
+[----------] 2 tests from W2lModuleTest (340 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (340 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 2 tests, listed below:
+[  FAILED  ] W2lModuleTest.W2lSeqModule
+[  FAILED  ] W2lModuleTest.Serialization
+
+ 2 FAILED TESTS
+<end of output>
+Test time =   0.37 sec
+----------------------------------------------------------
+Test Failed.
+"W2lModuleTest" end time: Mar 08 20:28 UTC
+"W2lModuleTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/19 Testing: RuntimeTest
+19/19 Test: RuntimeTest
+Command: "/root/wav2letter/build/src/tests/RuntimeTest"
+Directory: /root/wav2letter/build/src/tests
+"RuntimeTest" start time: Mar 08 20:28 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 3 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 3 tests from RuntimeTest
+[ RUN      ] RuntimeTest.LoadAndSave
+[       OK ] RuntimeTest.LoadAndSave (240 ms)
+[ RUN      ] RuntimeTest.TestCleanFilepath
+[       OK ] RuntimeTest.TestCleanFilepath (0 ms)
+[ RUN      ] RuntimeTest.SpeechStatMeter
+[       OK ] RuntimeTest.SpeechStatMeter (0 ms)
+[----------] 3 tests from RuntimeTest (240 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test case ran. (240 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"RuntimeTest" end time: Mar 08 20:28 UTC
+"RuntimeTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 08 20:28 UTC

@@ -1,0 +1,36 @@
+{
+    "config": [
+        {
+            "key": "runIdx",
+            "value": "3"
+        },
+        {
+            "key": "timestamp",
+            "value": "2019-03-13, 2019-03-13"
+        },
+        {
+            "key": "hostname",
+            "value": "3e47ee16d29d"
+        },
+        {
+            "key": "runPath",
+            "value": "saveDir/4k/"
+        },
+        {
+            "key": "username",
+            "value": ""
+        },
+        {
+            "key": "gflags",
+            "value": "--flagfile=\n--fromenv=\n--tryfromenv=\n--undefok=\n--tab_completion_columns=80\n--tab_completion_word=\n--help=false\n--helpfull=false\n--helpmatch=\n--helpon=\n--helppackage=false\n--helpshort=false\n--helpxml=false\n--version=false\n--adambeta1=0.90000000000000002\n--adambeta2=0.999\n--am=\n--arch=network.arch\n--archdir=/root/wav2letter/data/\n--attention=content\n--attnWindow=no\n--batchsize=32\n--beamscore=25\n--beamsize=2500\n--channels=1\n--criterion=ctc\n--critoptim=sgd\n--datadir=/root/wav2letter/data/First4000_16kHz/\n--dataorder=input\n--devwin=0\n--emission_dir=\n--enable_distributed=false\n--encoderdim=0\n--eostoken=false\n--everstoredb=false\n--fftcachesize=1\n--filterbanks=40\n--flagsfile=train.cfg\n--forceendsil=false\n--gamma=1\n--garbage=false\n--input=wav\n--inputbinsize=100\n--inputfeeding=false\n--iter=5000\n--itersave=false\n--labelsmooth=0\n--leftWindowSize=50\n--lexicon=\n--linlr=-1\n--linlrcrit=-1\n--linseg=0\n--lm=\n--lmtype=kenlm\n--lmweight=1\n--localnrmlleftctx=0\n--localnrmlrightctx=0\n--logadd=false\n--lr=0.01\n--lrcrit=0.01\n--maxdecoderoutputlen=200\n--maxgradnorm=1\n--maxisz=9223372036854775807\n--maxload=-1\n--maxrate=10\n--maxsil=50\n--maxtsz=9223372036854775807\n--maxword=-1\n--melfloor=1\n--memstepsize=10485760\n--mfcc=false\n--mfcccoeffs=13\n--mfsc=true\n--minisz=0\n--minrate=3\n--minsil=0\n--mintsz=0\n--momentum=0\n--netoptim=sgd\n--noresample=false\n--nthread=8\n--nthread_decoder=1\n--onorm=target\n--optimepsilon=1e-08\n--optimrho=0.90000000000000002\n--outputbinsize=5\n--pctteacherforcing=100\n--pcttraineval=100\n--pow=false\n--replabel=2\n--reportiters=0\n--rightWindowSize=50\n--rndv_filepath=\n--rundir=/root/wav2letter/saveDir/\n--runname=4k\n--samplerate=16000\n--samplingstrategy=rand\n--sclite=\n--seed=0\n--show=false\n--showletters=false\n--silweight=0\n--skipoov=false\n--smearing=none\n--softwoffset=10\n--softwrate=5\n--softwstd=5\n--sqnorm=true\n--stepsize=1000000\n--surround=|\n--tag=\n--target=tkn\n--targettype=video\n--test=\n--tokens=tokens.txt\n--tokensdir=/root/wav2letter/data/First4000_16kHz/\n--train=Train/\n--trainWithWindow=false\n--transdiag=0\n--unkweight=-inf\n--valid=Valid/\n--weightdecay=0\n--wordscore=1\n--world_rank=0\n--world_size=1\n--alsologtoemail=\n--alsologtostderr=false\n--colorlogtostderr=false\n--drop_log_memory=true\n--log_backtrace_at=\n--log_dir=\n--log_link=\n--log_prefix=true\n--logbuflevel=0\n--logbufsecs=30\n--logemaillevel=999\n--logmailer=/bin/mail\n--logtostderr=false\n--max_log_size=1800\n--minloglevel=0\n--stderrthreshold=2\n--stop_logging_if_full_disk=false\n--symbolize_stacktrace=true\n--v=0\n--vmodule=\n"
+        },
+        {
+            "key": "commandline",
+            "value": "build/Train continue saveDir/4k/ --flagsfile train.cfg"
+        },
+        {
+            "key": "programname",
+            "value": "build/Train"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+# Target labels
+ gtest
+# Source files and their labels
+/root/wav2letter/build/src/tests/CMakeFiles/gtest
+/root/wav2letter/build/src/tests/CMakeFiles/gtest.rule
+/root/wav2letter/build/src/tests/CMakeFiles/gtest-complete.rule
+/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-install.rule
+/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-mkdir.rule
+/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-download.rule
+/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-update.rule
+/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-patch.rule
+/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-configure.rule
+/root/wav2letter/build/src/tests/googletest/src/gtest-stamp/gtest-build.rule
