@@ -1,0 +1,2005 @@
+|T|: sjalva 
+|P|: sjalva 
+|t|: sjalva
+|p|: sjalva
+[sample: 63, WER: 0%, LER: 0%, slice WER: 0%, slice LER: 0%, progress: 1.96078%]
+|T|: niohundratrettionio 
+|P|: niohundratrettionio 
+|t|: niohundratrettionio
+|p|: niohundratrettionio
+[sample: 388, WER: 0%, LER: 0%, slice WER: 0%, slice LER: 0%, progress: 1.96078%]
+|T|: nu for jag go kladd so har punkt 
+|P|: nu for jag go kladd so har punkt 
+|t|: nu|for|jag|go|kladd|so|har|punkt
+|p|: nu|for|jag|go|kladd|so|har|punkt
+[sample: 338, WER: 0%, LER: 0%, slice WER: 0%, slice LER: 0%, progress: 2.27273%]
+|T|: ett tvo ett tvo sextiofyra niohundrasextiosex 
+|P|: ett tvo ett tvo sextiofyra niohundrasextiosex 
+|t|: ett||tvo||ett||tvo||sextiofyra||niohundrasextiosex
+|p|: ett|tvo|ett|tvo|sextiofyra|niohundrasextiosex
+[sample: 361, WER: 0%, LER: 10%, slice WER: 0%, slice LER: 10%, progress: 1.96078%]
+|T|: sex otta sju sex nittiosex trehundratjugoett 
+|P|: sex otta sju sex nittiosex trehundratjugoett 
+|t|: sex||otta||sju||sex||nittiosex||trehundratjugoett
+|p|: sex|otta|sju|sex|nittiosex|trehundratjugoett
+[sample: 219, WER: 0%, LER: 10.2041%, slice WER: 0%, slice LER: 10.2041%, progress: 1.96078%]
+|T|: so foljde ett knarrande ljud komma och en duns punkt 
+|P|: so felet nar rann ur komma och en duns punkt 
+|t|: so|foljde|ett|knarrande|ljud|komma|och|en|duns|punkt
+|p|: so|felet|nar|rann|ur|komma|och|en|duns|punkt
+[sample: 161, WER: 40%, LER: 25%, slice WER: 40%, slice LER: 25%, progress: 1.96078%]
+|T|: har ar hela listan med alla nya godkanda naturmedel 
+|P|: har ar hela listan alla nya godkanda naturmedel 
+|t|: har|ar|hela|listan|med|alla|nya|godkanda|naturmedel
+|p|: har|ar|hela|listan|alla|nya|godkanda|naturmedel
+[sample: 212, WER: 11.1111%, LER: 7.84314%, slice WER: 11.1111%, slice LER: 7.84314%, progress: 1.96078%]
+|T|: rapporterna blev en fulltraff for de transnationella 
+|P|: rapporterna blev en fulltraff for de transnationella 
+|t|: rapporterna|blev|en|fulltraff|for|de|transnationella
+|p|: rapporterna|blev|en|fulltraff|for|de|transnationella
+[sample: 23, WER: 0%, LER: 0%, slice WER: 0%, slice LER: 0%, progress: 3.92157%]
+|T|: andra brydde sig inte om att samla sina dikter 
+|P|: andra brydde inte om att samla sina dikter 
+|t|: andra|brydde|sig|inte|om|att|samla|sina|dikter
+|p|: andra|brydde|inte|om|att|samla|sina|dikter
+[sample: 181, WER: 11.1111%, LER: 8.69565%, slice WER: 5.88235%, slice LER: 5.12821%, progress: 4.54545%]
+|T|: de borde i stallet fo det fron frukt och gront som aven inneholler fibrer och amnen som skyddar mot cancer 
+|P|: de borde stalle for men frukt och gront som aven inneholler fri granen som sidor mot laser 
+|t|: de|borde|i|stallet|fo|det|fron|frukt|och|gront|som|aven|inneholler|fibrer|och|amnen|som|skyddar|mot|cancer
+|p|: de|borde|stalle|for|men|frukt|och|gront|som|aven|inneholler|fri|granen|som|sidor|mot|laser
+[sample: 191, WER: 50%, LER: 24.5283%, slice WER: 50%, slice LER: 24.5283%, progress: 1.96078%]
+|T|: johannes sandgren 
+|P|: johannes sandgren 
+|t|: johannes|sandgren
+|p|: johannes|sandgren
+[sample: 395, WER: 0%, LER: 0%, slice WER: 9.09091%, slice LER: 5.88235%, progress: 3.92157%]
+|T|: tjugosju tusen niohundrasextiotre 
+|P|: tjugosju tusen niohundrasextiotre 
+|t|: tjugosju|tusen|niohundrasextiotre
+|p|: tjugosju|tusen|niohundrasextiotre
+[sample: 85, WER: 0%, LER: 0%, slice WER: 5%, slice LER: 3.6036%, progress: 6.81818%]
+|T|: det blir billigare an effektiv rening 
+|P|: det blir billigare effektiv rening 
+|t|: det|blir|billigare|an|effektiv|rening
+|p|: det|blir|billigare|effektiv|rening
+[sample: 19, WER: 16.6667%, LER: 8.10811%, slice WER: 31.25%, slice LER: 17.9775%, progress: 3.92157%]
+|T|: forhandlingarna pogick in i det sista 
+|P|: forhandlingarna pogick in i de sista 
+|t|: forhandlingarna|pogick|in|i|det|sista
+|p|: forhandlingarna|pogick|in|i|de|sista
+[sample: 88, WER: 16.6667%, LER: 2.7027%, slice WER: 7.14286%, slice LER: 0.925926%, progress: 5.88235%]
+|T|: jag marker sjalv vissa skillnader sager han och tror att mycket beror po att sjukhuset tar emot helt andra patienter 
+|P|: jag marker sjalv vissa skillnader sager han tog att mycket er att sjukhuset tar emot helt andra patienter 
+|t|: jag|marker|sjalv|vissa|skillnader|sager|han|och|tror|att|mycket|beror|po|att|sjukhuset|tar|emot|helt|andra|patienter
+|p|: jag|marker|sjalv|vissa|skillnader|sager|han|tog|att|mycket|er|att|sjukhuset|tar|emot|helt|andra|patienter
+[sample: 147, WER: 20%, LER: 10.3448%, slice WER: 19.0476%, slice LER: 9.83607%, progress: 3.92157%]
+|T|: att hetsa mot en folkgrupp ar sunt men att forsvara manskliga rattigheter skumt 
+|P|: hetsa mot en folkgrupp ar sunt men att forsvara moste rattigheter skumt 
+|t|: att|hetsa|mot|en|folkgrupp|ar|sunt|men|att|forsvara|manskliga|rattigheter|skumt
+|p|: hetsa|mot|en|folkgrupp|ar|sunt|men|att|forsvara|moste|rattigheter|skumt
+[sample: 185, WER: 15.3846%, LER: 13.9241%, slice WER: 10.5263%, slice LER: 12.4031%, progress: 3.92157%]
+|T|: sextiotvo tusen sjuhundrasju 
+|P|: sextiotvo tusen sjuhundrasju 
+|t|: sextiotvo|tusen|sjuhundrasju
+|p|: sextiotvo|tusen|sjuhundrasju
+[sample: 186, WER: 0%, LER: 0%, slice WER: 4.34783%, slice LER: 2.8777%, progress: 9.09091%]
+|T|: backa 
+|P|: otta 
+|t|: backa
+|p|: otta
+[sample: 261, WER: 100%, LER: 80%, slice WER: 15%, slice LER: 14.9254%, progress: 5.88235%]
+|T|: postor 
+|P|: po stor 
+|t|: postor
+|p|: po|stor
+[sample: 59, WER: 200%, LER: 16.6667%, slice WER: 23.8095%, slice LER: 15%, progress: 7.84314%]
+|T|: femton tusen etthundratrettiotre 
+|P|: femton tusen etthundratrettiotre 
+|t|: femton|tusen|etthundratrettiotre
+|p|: femton|tusen|etthundratrettiotre
+[sample: 78, WER: 0%, LER: 0%, slice WER: 5.88235%, slice LER: 0.714286%, progress: 7.84314%]
+|T|: tre otta tvo ett ottioett tvohundrasexton 
+|P|: tre otta tvo ett ottioett tvohundrasexton 
+|t|: tre||otta||tvo||ett||ottioett||tvohundrasexton
+|p|: tre|otta|tvo|ett|ottioett|tvohundrasexton
+[sample: 390, WER: 0%, LER: 10.8696%, slice WER: 18.5185%, slice LER: 13.9785%, progress: 9.80392%]
+|T|: det kostar runt tjugo kronor att hyra tornet ett dygn men det sliter po nerverna att go ensam genom djungeln 
+|P|: det kostar runt tjugo rora tyra tornet ett dygn men det sliter po nerverna att go ensam det ingen 
+|t|: det|kostar|runt|tjugo|kronor|att|hyra|tornet|ett|dygn|men|det|sliter|po|nerverna|att|go|ensam|genom|djungeln
+|p|: det|kostar|runt|tjugo|rora|tyra|tornet|ett|dygn|men|det|sliter|po|nerverna|att|go|ensam|det|ingen
+[sample: 146, WER: 25%, LER: 13.8889%, slice WER: 19.2308%, slice LER: 12.7389%, progress: 3.92157%]
+|T|: dar finns det ingen motsattning mellan forandring och stabilitet 
+|P|: dar finns det ingen motsattning mellan forandring o 
+|t|: dar|finns|det|ingen|motsattning|mellan|forandring|och|stabilitet
+|p|: dar|finns|det|ingen|motsattning|mellan|forandring|o|state
+[sample: 303, WER: 22.2222%, LER: 10.9375%, slice WER: 28%, slice LER: 15.0327%, progress: 5.88235%]
+|T|: den lille langst bak po tandemcykeln punkt 
+|P|: den lille langst bak po tande saken punkt 
+|t|: den|lille|langst|bak|po|tandemcykeln|punkt
+|p|: den|lille|langst|bak|po|tande|saken|punkt
+[sample: 222, WER: 28.5714%, LER: 9.52381%, slice WER: 10%, slice LER: 4.41989%, progress: 11.3636%]
+|T|: innan oljan upptacktes var parlfiske en av de viktigaste inkomstkallorna i regionen 
+|P|: innan oljan upptacktes var parlfiske en mycket inkomstkallorna i regionen 
+|t|: innan|oljan|upptacktes|var|parlfiske|en|av|de|viktigaste|inkomstkallorna|i|regionen
+|p|: innan|oljan|upptacktes|var|parlfiske|en|mycket|inkomstkallorna|i|regionen
+[sample: 249, WER: 25%, LER: 16.8675%, slice WER: 40.625%, slice LER: 21.164%, progress: 3.92157%]
+|T|: p a n i k 
+|P|: p a n i k 
+|t|: p|a|n|i|k
+|p|: p|a|n|i|k
+[sample: 119, WER: 0%, LER: 0%, slice WER: 35.1351%, slice LER: 20.202%, progress: 5.88235%]
+|T|: det blir alldeles for dyrt att sitta och forhandla med smo lokala trafikforetag 
+|P|: det blir alldeles for dyrt att sitta och forhandla med smo lokala trafikforetag 
+|t|: det|blir|alldeles|for|dyrt|att|sitta|och|forhandla|med|smo|lokala|trafikforetag
+|p|: det|blir|alldeles|for|dyrt|att|sitta|och|forhandla|med|smo|lokala|trafikforetag
+[sample: 389, WER: 0%, LER: 0%, slice WER: 4.16667%, slice LER: 2.72109%, progress: 5.88235%]
+|T|: trafikbuller ar den miljostorning som drabbar flest stockholmare 
+|P|: trafikbuller ar den miljostorning som drabbar flest om var 
+|t|: trafikbuller|ar|den|miljostorning|som|drabbar|flest|stockholmare
+|p|: trafikbuller|ar|den|miljostorning|som|drabbar|flest|om|var
+[sample: 314, WER: 25%, LER: 14.0625%, slice WER: 20.6897%, slice LER: 11.2903%, progress: 5.88235%]
+|T|: ny vag 
+|P|: ny vag 
+|t|: ny|vag
+|p|: ny|vag
+[sample: 101, WER: 0%, LER: 0%, slice WER: 9.375%, slice LER: 4.27807%, progress: 13.6364%]
+|T|: sex fem tvo otta sjuttiootta ottahundraottiofyra 
+|P|: sex fem tvo otta sjuttiootta ottahundraottiofyra 
+|t|: sex||fem||tvo||otta||sjuttiootta||ottahundraottiofyra
+|p|: sex|fem|tvo|otta|sjuttiootta|ottahundraottiofyra
+[sample: 298, WER: 0%, LER: 9.43396%, slice WER: 3.33333%, slice LER: 4.5%, progress: 7.84314%]
+|T|: fyrtiotvo tusen niohundraottiofyra 
+|P|: fyrtiotvo tusen niohundraottiofyra 
+|t|: fyrtiotvo|tusen|niohundraottiofyra
+|p|: fyrtiotvo|tusen|niohundraottiofyra
+[sample: 274, WER: 0%, LER: 0%, slice WER: 8.57143%, slice LER: 3.61991%, progress: 15.9091%]
+|T|: ett tre sex sex ottiotre sjuhundratrettiotvo 
+|P|: ett tre sex sex ottiotre sjuhundratrettiotvo 
+|t|: ett||tre||sex||sex||ottiotre||sjuhundratrettiotvo
+|p|: ett|tre|sex|sex|ottiotre|sjuhundratrettiotvo
+[sample: 350, WER: 0%, LER: 10.2041%, slice WER: 17.1429%, slice LER: 11.0638%, progress: 7.84314%]
+|T|: trettionio tusen femhundrafem 
+|P|: trettionio tusen femhundrafem 
+|t|: trettionio|tusen|femhundrafem
+|p|: trettionio|tusen|femhundrafem
+[sample: 114, WER: 0%, LER: 0%, slice WER: 7.89474%, slice LER: 3.2%, progress: 18.1818%]
+|T|: nar de kom hem slog de sig ner i gordshornet igen 
+|P|: nar hon kom hem slog an sina gordshornet en 
+|t|: nar|de|kom|hem|slog|de|sig|ner|i|gordshornet|igen
+|p|: nar|hon|kom|hem|slog|an|sina|gordshornet|en
+[sample: 324, WER: 54.5455%, LER: 26.5306%, slice WER: 39.5833%, slice LER: 21.4575%, progress: 7.84314%]
+|T|: allt tas po blodigaste allvar och utsags po maxvolym 
+|P|: allt tas po blodigaste allvar och utsags po maxvolym 
+|t|: allt|tas|po|blodigaste|allvar|och|utsags|po|maxvolym
+|p|: allt|tas|po|blodigaste|allvar|och|utsags|po|maxvolym
+[sample: 393, WER: 0%, LER: 0%, slice WER: 14.2857%, slice LER: 9.56938%, progress: 5.88235%]
+|T|: detta tog alldeles for stor del av vora knappa resurser 
+|P|: detta tog an deras stor del av vora knappa de stor 
+|t|: detta|tog|alldeles|for|stor|del|av|vora|knappa|resurser
+|p|: detta|tog|an|deras|stor|del|av|vora|knappa|de|stor
+[sample: 385, WER: 40%, LER: 25.4545%, slice WER: 31.4286%, slice LER: 17.7885%, progress: 7.84314%]
+|T|: ottionio tusen sjuhundranio 
+|P|: ottionio tusen sjuhundranio 
+|t|: ottionio|tusen|sjuhundranio
+|p|: ottionio|tusen|sjuhundranio
+[sample: 239, WER: 0%, LER: 0%, slice WER: 37.2549%, slice LER: 19.3431%, progress: 9.80392%]
+|T|: frogan ar om inte nogra av de mest drabbade orskullarna skulle kunna stamma staten for alla de forlorade oren 
+|P|: frogan ar och inte nogra av de mest drabbade orskullarna skulle nasta staten for alla de forlorade oren 
+|t|: frogan|ar|om|inte|nogra|av|de|mest|drabbade|orskullarna|skulle|kunna|stamma|staten|for|alla|de|forlorade|oren
+|p|: frogan|ar|och|inte|nogra|av|de|mest|drabbade|orskullarna|skulle|nasta|staten|for|alla|de|forlorade|oren
+[sample: 235, WER: 15.7895%, LER: 8.25688%, slice WER: 17.3913%, slice LER: 11.8644%, progress: 11.7647%]
+|T|: musiken 
+|P|: musiken 
+|t|: musiken
+|p|: musiken
+[sample: 318, WER: 0%, LER: 0%, slice WER: 17.0213%, slice LER: 11.5894%, progress: 13.7255%]
+|T|: knut bjorkman 
+|P|: knut gor men 
+|t|: knut|bjorkman
+|p|: knut|gor|men
+[sample: 56, WER: 100%, LER: 30.7692%, slice WER: 20.4082%, slice LER: 12.381%, progress: 15.6863%]
+|T|: vi har ganska fullt har po helgerna punkt 
+|P|: i har ganska fullt har po allra punkt 
+|t|: vi|har|ganska|fullt|har|po|helgerna|punkt
+|p|: i|har|ganska|fullt|har|po|allra|punkt
+[sample: 308, WER: 25%, LER: 14.6341%, slice WER: 35.5932%, slice LER: 18.7302%, progress: 11.7647%]
+|T|: de som beviljat lonen loper do risk att forlora pengar 
+|P|: de som beviljat lonen loper ska forlora pengar 
+|t|: de|som|beviljat|lonen|loper|do|risk|att|forlora|pengar
+|p|: de|som|beviljat|lonen|loper|ska|forlora|pengar
+[sample: 26, WER: 30%, LER: 14.8148%, slice WER: 20%, slice LER: 11.7647%, progress: 9.80392%]
+|T|: vinnande svensk gor sedan till final mot vinnande norrman 
+|P|: vinnande svensk okande for nogot vinnande norrman 
+|t|: vinnande|svensk|gor|sedan|till|final|mot|vinnande|norrman
+|p|: vinnande|svensk|okande|for|nogot|vinnande|norrman
+[sample: 193, WER: 55.5556%, LER: 29.8246%, slice WER: 36.3636%, slice LER: 20.3774%, progress: 9.80392%]
+|T|: politiker och socialarbetare slor larm om ungdomsproblem och spritmissbruk som ar mer omfattande an de flesta trott i denna relativt lilla kommun 
+|P|: politiker och socialarbetare slor larm om ungdomsproblem ors ut med ska ut som ar mer omfattande an de flesta trott i denna relativt lilla kommun 
+|t|: politiker|och|socialarbetare|slor|larm|om|ungdomsproblem|och|spritmissbruk|som|ar|mer|omfattande|an|de|flesta|trott|i|denna|relativt|lilla|kommun
+|p|: politiker|och|socialarbetare|slor|larm|om|ungdomsproblem|ors|ut|med|ska|ut|som|ar|mer|omfattande|an|de|flesta|trott|i|denna|relativt|lilla|kommun
+[sample: 45, WER: 22.7273%, LER: 8.96552%, slice WER: 15.3846%, slice LER: 4.91228%, progress: 9.80392%]
+|T|: marta utbildade sig till barnskoterska och flyttade hemifron tidigt punkt 
+|P|: latta i bidragit barnskoterska av flickan over fron tidigt punkt 
+|t|: marta|utbildade|sig|till|barnskoterska|och|flyttade|hemifron|tidigt|punkt
+|p|: latta|i|bidragit|barnskoterska|av|flickan|over|fron|tidigt|punkt
+[sample: 195, WER: 80%, LER: 36.9863%, slice WER: 22.9167%, slice LER: 10.8359%, progress: 20.4545%]
+|T|: ett tvo ett sex ottiosju femhundratjugotvo 
+|P|: ett tvo ett sex ottiosju femhundratjugotvo 
+|t|: ett||tvo||ett||sex||ottiosju||femhundratjugotvo
+|p|: ett|tvo|ett|sex|ottiosju|femhundratjugotvo
+[sample: 329, WER: 0%, LER: 10.6383%, slice WER: 17.6471%, slice LER: 11.6071%, progress: 11.7647%]
+|T|: sjuntorp 
+|P|: sjuntorp 
+|t|: sjuntorp
+|p|: sjuntorp
+[sample: 93, WER: 0%, LER: 0%, slice WER: 17.3077%, slice LER: 11.3372%, progress: 13.7255%]
+|T|: uppdatera 
+|P|: uppdatera 
+|t|: uppdatera
+|p|: uppdatera
+[sample: 290, WER: 0%, LER: 0%, slice WER: 15%, slice LER: 4.7619%, progress: 11.7647%]
+|T|: julia blomqvist 
+|P|: julia blomqvist 
+|t|: julia|blomqvist
+|p|: julia|blomqvist
+[sample: 135, WER: 0%, LER: 0%, slice WER: 22%, slice LER: 10.355%, progress: 22.7273%]
+|T|: man kan gora mycket av dem 
+|P|: man kan gora mycket av dem 
+|t|: man|kan|gora|mycket|av|dem
+|p|: man|kan|gora|mycket|av|dem
+[sample: 159, WER: 0%, LER: 0%, slice WER: 32%, slice LER: 18.5567%, progress: 11.7647%]
+|T|: fyrtioett tusen niohundratre 
+|P|: fyrtioett tusen niohundratre 
+|t|: fyrtioett|tusen|niohundratre
+|p|: fyrtioett|tusen|niohundratre
+[sample: 326, WER: 0%, LER: 0%, slice WER: 16.3636%, slice LER: 10.4839%, progress: 15.6863%]
+|T|: tillstond 
+|P|: tillstond 
+|t|: tillstond
+|p|: tillstond
+[sample: 368, WER: 0%, LER: 0%, slice WER: 31.3725%, slice LER: 18%, progress: 13.7255%]
+|T|: i den nya varlden har naringslivets elit och de finansiella marknaderna alltmer dikterat villkoren for produktionen 
+|P|: nya varlden har naringslivets elit och de finansiella marknaderna alltmer dikterat villkoren for rotation 
+|t|: i|den|nya|varlden|har|naringslivets|elit|och|de|finansiella|marknaderna|alltmer|dikterat|villkoren|for|produktionen
+|p|: nya|varlden|har|naringslivets|elit|och|de|finansiella|marknaderna|alltmer|dikterat|villkoren|for|rotation
+[sample: 39, WER: 18.75%, LER: 10.4348%, slice WER: 8.69565%, slice LER: 6.66667%, progress: 9.80392%]
+|T|: villkoren hon talade om allt liv och dod och knivar och holigheter var hennes hjarnas byggstallningar 
+|P|: villkoren talade om en fin och de hade knivar och holigheter har inte goras utan ringer 
+|t|: villkoren|hon|talade|om|allt|liv|och|dod|och|knivar|och|holigheter|var|hennes|hjarnas|byggstallningar
+|p|: villkoren|talade|om|en|fin|och|de|hade|knivar|och|holigheter|har|inte|goras|utan|ringer
+[sample: 184, WER: 62.5%, LER: 33.6634%, slice WER: 29.4118%, slice LER: 17.4194%, progress: 7.84314%]
+|T|: nogon reformator var hon dock inte 
+|P|: nogon reformator var hon dock inte 
+|t|: nogon|reformator|var|hon|dock|inte
+|p|: nogon|reformator|var|hon|dock|inte
+[sample: 154, WER: 0%, LER: 0%, slice WER: 14.7541%, slice LER: 9.60591%, progress: 17.6471%]
+|T|: sex ett tvo sju sexton sexhundrafyrtiootta 
+|P|: sex ett tvo sju sexton sexhundrafyrtiootta 
+|t|: sex||ett||tvo||sju||sexton||sexhundrafyrtiootta
+|p|: sex|ett|tvo|sju|sexton|sexhundrafyrtiootta
+[sample: 220, WER: 0%, LER: 10.6383%, slice WER: 28.0702%, slice LER: 17.0029%, progress: 15.6863%]
+|T|: hon sprang forbi rektorsexpeditionen och hallen och ut i det fria 
+|P|: hon sprang forbi rektorsexpeditionen och hallen och ut i fria 
+|t|: hon|sprang|forbi|rektorsexpeditionen|och|hallen|och|ut|i|det|fria
+|p|: hon|sprang|forbi|rektorsexpeditionen|och|hallen|och|ut|i|fria
+[sample: 178, WER: 9.09091%, LER: 6.15385%, slice WER: 13.7255%, slice LER: 5.01393%, progress: 13.7255%]
+|T|: det kandes skont att bi omkramad av syster 
+|P|: det kandes fron att go travade syster 
+|t|: det|kandes|skont|att|bi|omkramad|av|syster
+|p|: det|kandes|fron|att|go|travade|syster
+[sample: 17, WER: 50%, LER: 28.5714%, slice WER: 32.2034%, slice LER: 18.75%, progress: 9.80392%]
+|T|: den skall foreslo ett nytt betygssystem som mater kunskaper utan att jamfora elever med varandra 
+|P|: den skall foreslo ett nytt betygssystem som mater kunskaper utan att jamfora elever med varandra 
+|t|: den|skall|foreslo|ett|nytt|betygssystem|som|mater|kunskaper|utan|att|jamfora|elever|med|varandra
+|p|: den|skall|foreslo|ett|nytt|betygssystem|som|mater|kunskaper|utan|att|jamfora|elever|med|varandra
+[sample: 155, WER: 0%, LER: 0%, slice WER: 28.3784%, slice LER: 14.3552%, progress: 13.7255%]
+|T|: han vill inte vara med po bild 
+|P|: han men inte vara med po bild 
+|t|: han|vill|inte|vara|med|po|bild
+|p|: han|men|inte|vara|med|po|bild
+[sample: 266, WER: 14.2857%, LER: 13.3333%, slice WER: 26.5625%, slice LER: 16.7109%, progress: 17.6471%]
+|T|: nasviken 
+|P|: nasviken 
+|t|: nasviken
+|p|: nasviken
+[sample: 345, WER: 0%, LER: 0%, slice WER: 31.6667%, slice LER: 18.3333%, progress: 11.7647%]
+|T|: kvinnor kan ljuga om sin older eller att de aldrig har skonhetsopererat sig 
+|P|: kvinnor ar en sin older eller att allatande so rart se 
+|t|: kvinnor|kan|ljuga|om|sin|older|eller|att|de|aldrig|har|skonhetsopererat|sig
+|p|: kvinnor|ar|en|sin|older|eller|att|allatande|so|rart|se
+[sample: 20, WER: 61.5385%, LER: 42.6667%, slice WER: 30.1587%, slice LER: 16.2228%, progress: 25%]
+|T|: varje termin ska larare komma elev och foraldrar fora samtal som syftar framot punkt 
+|P|: varje termin ska larare komma elev och foraldrar fora samtal som syftar framot punkt 
+|t|: varje|termin|ska|larare|komma|elev|och|foraldrar|fora|samtal|som|syftar|framot|punkt
+|p|: varje|termin|ska|larare|komma|elev|och|foraldrar|fora|samtal|som|syftar|framot|punkt
+[sample: 309, WER: 0%, LER: 0%, slice WER: 15.873%, slice LER: 9.77444%, progress: 17.6471%]
+|T|: bratislava 
+|P|: bratislava 
+|t|: bratislava
+|p|: bratislava
+[sample: 136, WER: 0%, LER: 0%, slice WER: 15.625%, slice LER: 9.53545%, progress: 19.6078%]
+|T|: snart borjar alla rakna ut honom i fortid 
+|P|: slapa i alla ar har utom under fortid 
+|t|: snart|borjar|alla|rakna|ut|honom|i|fortid
+|p|: slapa|i|alla|ar|har|utom|under|fortid
+[sample: 52, WER: 75%, LER: 53.6585%, slice WER: 21.7391%, slice LER: 13.6465%, progress: 19.6078%]
+|T|: de flesta raddades med helikopter eller livbot och fordes till sjukhus 
+|P|: de flesta raddades med helikopter eller livbot och fordes till sjukhus 
+|t|: de|flesta|raddades|med|helikopter|eller|livbot|och|fordes|till|sjukhus
+|p|: de|flesta|raddades|med|helikopter|eller|livbot|och|fordes|till|sjukhus
+[sample: 120, WER: 0%, LER: 0%, slice WER: 7.01754%, slice LER: 5.45455%, progress: 11.7647%]
+|T|: fyrtionio tusen femhundraotta 
+|P|: fyrtionio tusen femhundraotta 
+|t|: fyrtionio|tusen|femhundraotta
+|p|: fyrtionio|tusen|femhundraotta
+[sample: 127, WER: 0%, LER: 0%, slice WER: 28.7879%, slice LER: 15.1584%, progress: 27.2727%]
+|T|: paris 
+|P|: paris 
+|t|: paris
+|p|: paris
+[sample: 33, WER: 0%, LER: 0%, slice WER: 6.89655%, slice LER: 5.38462%, progress: 13.7255%]
+|T|: ottiotvo tusen trettiofyra 
+|P|: ottiotvo tusen trettiofyra 
+|t|: ottiotvo|tusen|trettiofyra
+|p|: ottiotvo|tusen|trettiofyra
+[sample: 179, WER: 0%, LER: 0%, slice WER: 20.8333%, slice LER: 12.8964%, progress: 21.5686%]
+|T|: m o l e t 
+|P|: m o l e t 
+|t|: m|o|l|e|t
+|p|: m|o|l|e|t
+[sample: 55, WER: 0%, LER: 0%, slice WER: 26.7606%, slice LER: 14.8559%, progress: 29.5455%]
+|T|: alla hade haft det fint tillsammans punkt 
+|P|: alla hade haft fint tillsammans punkt 
+|t|: alla|hade|haft|det|fint|tillsammans|punkt
+|p|: alla|hade|haft|fint|tillsammans|punkt
+[sample: 392, WER: 14.2857%, LER: 9.7561%, slice WER: 29.8507%, slice LER: 17.4564%, progress: 13.7255%]
+|T|: z 
+|P|: satta 
+|t|: z
+|p|: satta
+[sample: 65, WER: 100%, LER: 500%, slice WER: 27.7778%, slice LER: 15.9292%, progress: 31.8182%]
+|T|: rapport 
+|P|: rapport 
+|t|: rapport
+|p|: rapport
+[sample: 400, WER: 0%, LER: 0%, slice WER: 20.5479%, slice LER: 12.7083%, progress: 23.5294%]
+|T|: det ar otroligt so det har hoppat po aktiemarknaden punkt 
+|P|: det ar otroligt so att ar hoppat po aktiemarknaden punkt 
+|t|: det|ar|otroligt|so|det|har|hoppat|po|aktiemarknaden|punkt
+|p|: det|ar|otroligt|so|att|ar|hoppat|po|aktiemarknaden|punkt
+[sample: 250, WER: 20%, LER: 5.26316%, slice WER: 14.7541%, slice LER: 5.04808%, progress: 15.6863%]
+|T|: sedan har de frihet att gora vad de vill 
+|P|: sedan har de frihet att gora vad de vi 
+|t|: sedan|har|de|frihet|att|gora|vad|de|vill
+|p|: sedan|har|de|frihet|att|gora|vad|de|vi
+[sample: 353, WER: 11.1111%, LER: 5%, slice WER: 15.0685%, slice LER: 9.1314%, progress: 21.5686%]
+|T|: typiskt att man ska vara so blyg 
+|P|: tid i ska man ska vara so blir 
+|t|: typiskt|att|man|ska|vara|so|blyg
+|p|: tid|i|ska|man|ska|vara|so|blir
+[sample: 48, WER: 57.1429%, LER: 31.25%, slice WER: 32.4324%, slice LER: 18.4758%, progress: 15.6863%]
+|T|: t y p e r 
+|P|: t i p e r 
+|t|: t|y|p|e|r
+|p|: t|i|p|e|r
+[sample: 358, WER: 20%, LER: 11.1111%, slice WER: 15.3846%, slice LER: 9.17031%, progress: 23.5294%]
+|T|: e g e n s k a p 
+|P|: e g e n s o d e 
+|t|: e|g|e|n|s|k|a|p
+|p|: e|g|e|n|s|o|d|e
+[sample: 283, WER: 37.5%, LER: 20%, slice WER: 27.7778%, slice LER: 16.8367%, progress: 19.6078%]
+|T|: de enklare jobben langst ner i hierarkin skots dock fortfarande till overvagande delen av kvinnor 
+|P|: regler jobben langst ner i lera till skots dock fortfarande av vagen delen av kvinnor 
+|t|: de|enklare|jobben|langst|ner|i|hierarkin|skots|dock|fortfarande|till|overvagande|delen|av|kvinnor
+|p|: regler|jobben|langst|ner|i|lera|till|skots|dock|fortfarande|av|vagen|delen|av|kvinnor
+[sample: 21, WER: 40%, LER: 24.7423%, slice WER: 30.3371%, slice LER: 16.3386%, progress: 15.6863%]
+|T|: parlsocker po semlor ar en styggelse 
+|P|: parlsocker po semlor ar en styggelse 
+|t|: parlsocker|po|semlor|ar|en|styggelse
+|p|: parlsocker|po|semlor|ar|en|styggelse
+[sample: 311, WER: 0%, LER: 0%, slice WER: 13.4328%, slice LER: 4.64602%, progress: 17.6471%]
+|T|: sex sex fyra sex femtiosex fyrahundrafyra 
+|P|: sex sex fyra sex femtiosex fyrahundrafyra 
+|t|: sex||sex||fyra||sex||femtiosex||fyrahundrafyra
+|p|: sex|sex|fyra|sex|femtiosex|fyrahundrafyra
+[sample: 297, WER: 0%, LER: 10.8696%, slice WER: 30%, slice LER: 17.7453%, progress: 17.6471%]
+|T|: meningen 
+|P|: meningen 
+|t|: meningen
+|p|: meningen
+[sample: 168, WER: 0%, LER: 0%, slice WER: 29.6296%, slice LER: 17.4538%, progress: 19.6078%]
+|T|: e m i l i a 
+|P|: e m i l i a 
+|t|: e|m|i|l|i|a
+|p|: e|m|i|l|i|a
+[sample: 162, WER: 0%, LER: 0%, slice WER: 14.2857%, slice LER: 8.95522%, progress: 25.4902%]
+|T|: fast det visste vi inte do 
+|P|: asterisk de inte do 
+|t|: fast|det|visste|vi|inte|do
+|p|: asterisk|de|inte|do
+[sample: 177, WER: 66.6667%, LER: 42.3077%, slice WER: 30.7692%, slice LER: 18.4211%, progress: 21.5686%]
+|T|: sextiotvo tusen etthundrasjuttionio 
+|P|: sextiotvo tusen etthundrasjuttionio 
+|t|: sextiotvo|tusen|etthundrasjuttionio
+|p|: sextiotvo|tusen|etthundrasjuttionio
+[sample: 355, WER: 0%, LER: 0%, slice WER: 29.6296%, slice LER: 16.9978%, progress: 23.5294%]
+|T|: det gor alltso att frongo inkassolagens regler och ando inte fo sitt tillstond indraget 
+|P|: de gora en att frongo inkassolagens regler ando inte fo se tills de indraget 
+|t|: det|gor|alltso|att|frongo|inkassolagens|regler|och|ando|inte|fo|sitt|tillstond|indraget
+|p|: de|gora|en|att|frongo|inkassolagens|regler|ando|inte|fo|se|tills|de|indraget
+[sample: 163, WER: 50%, LER: 20.6897%, slice WER: 25.2874%, slice LER: 13.933%, progress: 25.4902%]
+|T|: for att slippa fjask och flask i valtider lat vi alla vi ringde vara anonyma 
+|P|: for att slippa fjask och flask i valtider det alla vi ringde var ando i a 
+|t|: for|att|slippa|fjask|och|flask|i|valtider|lat|vi|alla|vi|ringde|vara|anonyma
+|p|: for|att|slippa|fjask|och|flask|i|valtider|det|alla|vi|ringde|var|ando|i|a
+[sample: 158, WER: 40%, LER: 13.1579%, slice WER: 29.8851%, slice LER: 15.5303%, progress: 34.0909%]
+|T|: han kunde simma efter dem ut till skeppet 
+|P|: han kunde simma efter dem ut till skeppet 
+|t|: han|kunde|simma|efter|dem|ut|till|skeppet
+|p|: han|kunde|simma|efter|dem|ut|till|skeppet
+[sample: 391, WER: 0%, LER: 0%, slice WER: 12%, slice LER: 4.25963%, progress: 19.6078%]
+|T|: en forutsattning ar att studierna utomlands kan tillgodoraknas i din svenska examen 
+|P|: en forutsattning ar stund utlandska i goras den svenska handen 
+|t|: en|forutsattning|ar|att|studierna|utomlands|kan|tillgodoraknas|i|din|svenska|examen
+|p|: en|forutsattning|ar|stund|utlandska|i|goras|den|svenska|handen
+[sample: 5, WER: 66.6667%, LER: 33.7349%, slice WER: 34.6535%, slice LER: 18.7817%, progress: 17.6471%]
+|T|: jag ar vilse 
+|P|: jag ar vilse 
+|t|: jag|ar|vilse
+|p|: jag|ar|vilse
+[sample: 100, WER: 0%, LER: 0%, slice WER: 24.4444%, slice LER: 13.6442%, progress: 27.451%]
+|T|: ersmark 
+|P|: ersmark 
+|t|: ersmark
+|p|: ersmark
+[sample: 198, WER: 0%, LER: 0%, slice WER: 34.3137%, slice LER: 18.5619%, progress: 19.6078%]
+|T|: forbaskad slor han naven i sin strykbrada och grymtar nogot ohorbart 
+|P|: forbaskad slor han naven i sin strykbrada och grymtar nogot ohorbart 
+|t|: forbaskad|slor|han|naven|i|sin|strykbrada|och|grymtar|nogot|ohorbart
+|p|: forbaskad|slor|han|naven|i|sin|strykbrada|och|grymtar|nogot|ohorbart
+[sample: 82, WER: 0%, LER: 0%, slice WER: 12.6316%, slice LER: 7.82123%, progress: 27.451%]
+|T|: plocka upp det 
+|P|: plocka upp det 
+|t|: plocka|upp|det
+|p|: plocka|upp|det
+[sample: 171, WER: 0%, LER: 0%, slice WER: 33.3333%, slice LER: 18.1373%, progress: 21.5686%]
+|T|: ulf lindberg 
+|P|: hon lindberg 
+|t|: ulf|lindberg
+|p|: hon|lindberg
+[sample: 224, WER: 50%, LER: 25%, slice WER: 33.6449%, slice LER: 18.2692%, progress: 23.5294%]
+|T|: till detta ates alltid knapriga pommes frites och so en liten skol med majonnas att dippa i forstos 
+|P|: till detta ates samt tio knappa hon fritt av so liten skol med lararna att nickade forstos 
+|t|: till|detta|ates|alltid|knapriga|pommes|frites|och|so|en|liten|skol|med|majonnas|att|dippa|i|forstos
+|p|: till|detta|ates|samt|tio|knappa|hon|fritt|av|so|liten|skol|med|lararna|att|nickade|forstos
+[sample: 22, WER: 55.5556%, LER: 31.3131%, slice WER: 34.3434%, slice LER: 19.7952%, progress: 21.5686%]
+|T|: utbytestakten av gamla mobiltelefoner kommer att oka den genomsnittliga anvandaren forvantas byta telefon vart annat till vart tredje or 
+|P|: utbytestakten av gamla mobiltelefoner kommer att oka den genomsnittliga anvandaren forvantas byta telefon vart an att till var tre o 
+|t|: utbytestakten|av|gamla|mobiltelefoner|kommer|att|oka|den|genomsnittliga|anvandaren|forvantas|byta|telefon|vart|annat|till|vart|tredje|or
+|p|: utbytestakten|av|gamla|mobiltelefoner|kommer|att|oka|den|genomsnittliga|anvandaren|forvantas|byta|telefon|vart|an|att|till|var|tre|o
+[sample: 265, WER: 26.3158%, LER: 5.14706%, slice WER: 11.6883%, slice LER: 5.32319%, progress: 15.6863%]
+|T|: for nu ska vi nog go hem och ata 
+|P|: en ska vi nog go en ha ett 
+|t|: for|nu|ska|vi|nog|go|hem|och|ata
+|p|: en|ska|vi|nog|go|en|ha|ett
+[sample: 269, WER: 55.5556%, LER: 37.5%, slice WER: 27.2727%, slice LER: 14.8936%, progress: 29.4118%]
+|T|: handla 
+|P|: handla 
+|t|: handla
+|p|: handla
+[sample: 347, WER: 0%, LER: 0%, slice WER: 27%, slice LER: 14.7488%, progress: 31.3726%]
+|T|: boken fanns ju att kopa var som helst utom har punkt 
+|P|: boken fanns att kopa var som helst utom har punkt 
+|t|: boken|fanns|ju|att|kopa|var|som|helst|utom|har|punkt
+|p|: boken|fanns|att|kopa|var|som|helst|utom|har|punkt
+[sample: 282, WER: 9.09091%, LER: 5.76923%, slice WER: 11.6279%, slice LER: 4.40367%, progress: 21.5686%]
+|T|: mangskog 
+|P|: mangskog 
+|t|: mangskog
+|p|: mangskog
+[sample: 343, WER: 0%, LER: 0%, slice WER: 11.4943%, slice LER: 4.33996%, progress: 23.5294%]
+|T|: fyra tre fyra tre nittiosex trehundrafyrtiosju 
+|P|: fyra tre fyra tre nittiosex trehundrafyrtiosju 
+|t|: fyra||tre||fyra||tre||nittiosex||trehundrafyrtiosju
+|p|: fyra|tre|fyra|tre|nittiosex|trehundrafyrtiosju
+[sample: 4, WER: 0%, LER: 9.80392%, slice WER: 31.8584%, slice LER: 17.6296%, progress: 25.4902%]
+|T|: jukkasjarvi 
+|P|: djupa storo 
+|t|: jukkasjarvi
+|p|: djupa|storo
+[sample: 255, WER: 200%, LER: 72.7273%, slice WER: 13.6364%, slice LER: 5.67376%, progress: 25.4902%]
+|T|: det ar kansligt for partiledningen som redan fott kritik for att endast hoginkomsttagarnas skatter sanks nasta or 
+|P|: det ar kansligt for partiledningen som redan fott kritik for att endast hoginkomsttagarnas skatter sanks nasta or 
+|t|: det|ar|kansligt|for|partiledningen|som|redan|fott|kritik|for|att|endast|hoginkomsttagarnas|skatter|sanks|nasta|or
+|p|: det|ar|kansligt|for|partiledningen|som|redan|fott|kritik|for|att|endast|hoginkomsttagarnas|skatter|sanks|nasta|or
+[sample: 236, WER: 0%, LER: 0%, slice WER: 24.4898%, slice LER: 13.6042%, progress: 25.4902%]
+|T|: hjarup 
+|P|: d hjarup 
+|t|: hjarup
+|p|: d|hjarup
+[sample: 91, WER: 100%, LER: 33.3333%, slice WER: 14.6067%, slice LER: 5.96491%, progress: 27.451%]
+|T|: ett samhalle som inte tar god hand om sina gamla och som forslosar manniskors arbetsvilja har ingen bra framtid 
+|P|: ett samhalle som inte a bode handen sina gamla och som forslosar manniskors arbetsvilja har ingen bra framtid 
+|t|: ett|samhalle|som|inte|tar|god|hand|om|sina|gamla|och|som|forslosar|manniskors|arbetsvilja|har|ingen|bra|framtid
+|p|: ett|samhalle|som|inte|a|bode|handen|sina|gamla|och|som|forslosar|manniskors|arbetsvilja|har|ingen|bra|framtid
+[sample: 105, WER: 21.0526%, LER: 6.30631%, slice WER: 28.3019%, slice LER: 13.928%, progress: 36.3636%]
+|T|: sate 
+|P|: sate 
+|t|: sate
+|p|: sate
+[sample: 140, WER: 0%, LER: 0%, slice WER: 28.0374%, slice LER: 13.8414%, progress: 38.6364%]
+|T|: arton 
+|P|: arton 
+|t|: arton
+|p|: arton
+[sample: 143, WER: 0%, LER: 0%, slice WER: 27.7778%, slice LER: 13.7346%, progress: 40.9091%]
+|T|: studera darfor garantitabellerna noga so du ar medveten om villkoren 
+|P|: studera darfor de an t a mellan noga so du ar medveten om villkoren 
+|t|: studera|darfor|garantitabellerna|noga|so|du|ar|medveten|om|villkoren
+|p|: studera|darfor|de|an|t|a|mellan|noga|so|du|ar|medveten|om|villkoren
+[sample: 164, WER: 50%, LER: 16.1765%, slice WER: 16.1905%, slice LER: 8.76033%, progress: 29.4118%]
+|T|: journalisterna har etiska regler som ger dem ratt att vagra utfora uppdrag punkt 
+|P|: journalister har etiska regler for med om ratt att vagra utfora uppdrag punkt 
+|t|: journalisterna|har|etiska|regler|som|ger|dem|ratt|att|vagra|utfora|uppdrag|punkt
+|p|: journalister|har|etiska|regler|for|med|om|ratt|att|vagra|utfora|uppdrag|punkt
+[sample: 196, WER: 30.7692%, LER: 10%, slice WER: 14.4444%, slice LER: 5.94059%, progress: 17.6471%]
+|T|: vissa sjukdomar och diagnoser inom kirurgin forekommer sallan 
+|P|: vissa sjukdomar och diagnoser inom kirurgin forekommer sallan 
+|t|: vissa|sjukdomar|och|diagnoser|inom|kirurgin|forekommer|sallan
+|p|: vissa|sjukdomar|och|diagnoser|inom|kirurgin|forekommer|sallan
+[sample: 360, WER: 0%, LER: 0%, slice WER: 31.7757%, slice LER: 17.9289%, progress: 23.5294%]
+|T|: vinna 
+|P|: hinna 
+|t|: vinna
+|p|: hinna
+[sample: 258, WER: 100%, LER: 20%, slice WER: 32.4074%, slice LER: 17.9448%, progress: 25.4902%]
+|T|: flyttar han eller hon sedan inte kopplas hyresnamnden in 
+|P|: flyttar an de ljusa n inte och bra hyresnamnden in 
+|t|: flyttar|han|eller|hon|sedan|inte|kopplas|hyresnamnden|in
+|p|: flyttar|an|de|ljusa|n|inte|och|bra|hyresnamnden|in
+[sample: 180, WER: 66.6667%, LER: 33.9286%, slice WER: 34.4262%, slice LER: 18.8782%, progress: 27.451%]
+|T|: ryssarna 
+|P|: ryssarna 
+|t|: ryssarna
+|p|: ryssarna
+[sample: 62, WER: 0%, LER: 0%, slice WER: 34.1463%, slice LER: 18.6739%, progress: 29.4118%]
+|T|: det vi har uppnott har kostat po 
+|P|: de ar uppnott har kostat po 
+|t|: det|vi|har|uppnott|har|kostat|po
+|p|: de|ar|uppnott|har|kostat|po
+[sample: 124, WER: 42.8571%, LER: 15.625%, slice WER: 28.6957%, slice LER: 13.8235%, progress: 43.1818%]
+|T|: adressbok 
+|P|: adress mot 
+|t|: adressbok
+|p|: adress|mot
+[sample: 142, WER: 200%, LER: 33.3333%, slice WER: 33.945%, slice LER: 18.1543%, progress: 27.451%]
+|T|: tryck 
+|P|: tryck 
+|t|: tryck
+|p|: tryck
+[sample: 370, WER: 0%, LER: 0%, slice WER: 33.6364%, slice LER: 18.018%, progress: 29.4118%]
+|T|: den har separationen ar egentligen ratt absurd 
+|P|: den har separationen ar egentligen ratt absurd 
+|t|: den|har|separationen|ar|egentligen|ratt|absurd
+|p|: den|har|separationen|ar|egentligen|ratt|absurd
+[sample: 279, WER: 0%, LER: 0%, slice WER: 15.1786%, slice LER: 8.14132%, progress: 31.3726%]
+|T|: visserligen ar lader ett harligt naturmaterial men det ar lite besvarligt att rengora so jag brukar borsta jackan 
+|P|: visserligen ar lader ett harligt naturmaterial men det ar lite besvarligt att rengora so jag brukar borsta en 
+|t|: visserligen|ar|lader|ett|harligt|naturmaterial|men|det|ar|lite|besvarligt|att|rengora|so|jag|brukar|borsta|jackan
+|p|: visserligen|ar|lader|ett|harligt|naturmaterial|men|det|ar|lite|besvarligt|att|rengora|so|jag|brukar|borsta|en
+[sample: 103, WER: 5.55556%, LER: 4.42478%, slice WER: 23.7288%, slice LER: 13.1507%, progress: 33.3333%]
+|T|: eller var det so enkelt att det rokade vara vinter nar de forsta inbyggarna sokte sig dit 
+|P|: eller vare sang i det rokade vara vinter nar de forsta inbyggarna sokte sig dit 
+|t|: eller|var|det|so|enkelt|att|det|rokade|vara|vinter|nar|de|forsta|inbyggarna|sokte|sig|dit
+|p|: eller|vare|sang|i|det|rokade|vara|vinter|nar|de|forsta|inbyggarna|sokte|sig|dit
+[sample: 11, WER: 29.4118%, LER: 14.6067%, slice WER: 25.2174%, slice LER: 13.7405%, progress: 27.451%]
+|T|: valde 
+|P|: valde 
+|t|: valde
+|p|: valde
+[sample: 398, WER: 0%, LER: 0%, slice WER: 25%, slice LER: 13.6364%, progress: 29.4118%]
+|T|: froga kunde hon ju inte inte nar han inte var dar 
+|P|: froga kunde hon inte interna han inte var dar 
+|t|: froga|kunde|hon|ju|inte|inte|nar|han|inte|var|dar
+|p|: froga|kunde|hon|inte|interna|han|inte|var|dar
+[sample: 69, WER: 27.2727%, LER: 10.2041%, slice WER: 28.5714%, slice LER: 13.5802%, progress: 45.4545%]
+|T|: i tredje takten ar det nogra extra stavelser som kan volla vissa problem 
+|P|: i tredje takten ar det nogra extra stavelser som kan volla vissa problem 
+|t|: i|tredje|takten|ar|det|nogra|extra|stavelser|som|kan|volla|vissa|problem
+|p|: i|tredje|takten|ar|det|nogra|extra|stavelser|som|kan|volla|vissa|problem
+[sample: 276, WER: 0%, LER: 0%, slice WER: 12.7451%, slice LER: 5.29595%, progress: 29.4118%]
+|T|: sjukvord undervisning och sont dar 
+|P|: sjukvord undervisning och sont er 
+|t|: sjukvord|undervisning|och|sont|dar
+|p|: sjukvord|undervisning|och|sont|er
+[sample: 160, WER: 20%, LER: 5.88235%, slice WER: 23.5772%, slice LER: 12.8272%, progress: 35.2941%]
+|T|: enligt polisen hade traktorn kommit upp po sporet och lokforaren hann aldrig stanna i tid 
+|P|: enligt polisen hade traktorn kommit upp po sporet or lokforaren alla i tid 
+|t|: enligt|polisen|hade|traktorn|kommit|upp|po|sporet|och|lokforaren|hann|aldrig|stanna|i|tid
+|p|: enligt|polisen|hade|traktorn|kommit|upp|po|sporet|or|lokforaren|alla|i|tid
+[sample: 116, WER: 26.6667%, LER: 19.1011%, slice WER: 16.1905%, slice LER: 7.6259%, progress: 19.6078%]
+|T|: nya regionala parlament diskuteras i regionberedningen 
+|P|: nya regionala parlament diskuteras i ar i ordningen 
+|t|: nya|regionala|parlament|diskuteras|i|regionberedningen
+|p|: nya|regionala|parlament|diskuteras|i|ar|i|ordningen
+[sample: 74, WER: 50%, LER: 14.8148%, slice WER: 26.2295%, slice LER: 13.7255%, progress: 31.3726%]
+|T|: teater 
+|P|: katter 
+|t|: teater
+|p|: katter
+[sample: 96, WER: 100%, LER: 50%, slice WER: 26.8293%, slice LER: 14.0278%, progress: 33.3333%]
+|T|: belopp 
+|P|: blo 
+|t|: belopp
+|p|: blo
+[sample: 317, WER: 100%, LER: 50%, slice WER: 27.4194%, slice LER: 14.3251%, progress: 35.2941%]
+|T|: annars ska han eller hon inte ta jobbet 
+|P|: annars la handa er hon inte ta jobbet 
+|t|: annars|ska|han|eller|hon|inte|ta|jobbet
+|p|: annars|la|handa|er|hon|inte|ta|jobbet
+[sample: 50, WER: 37.5%, LER: 15.3846%, slice WER: 24.4275%, slice LER: 12.9514%, progress: 37.2549%]
+|T|: tjugootta tusen tvohundranitton 
+|P|: tjugootta tusen tvohundranitton 
+|t|: tjugootta|tusen|tvohundranitton
+|p|: tjugootta|tusen|tvohundranitton
+[sample: 267, WER: 0%, LER: 0%, slice WER: 26.7717%, slice LER: 13.7384%, progress: 37.2549%]
+|T|: i dag hamnar alltso en grupp manniskor po efterkalken hela livet for att skolan inte lyckats lara dem svenska sproket 
+|P|: i dag hamnar ha sol utan i for efter sorterna livet for att skolan inte lyckats lara och svenska sproket 
+|t|: i|dag|hamnar|alltso|en|grupp|manniskor|po|efterkalken|hela|livet|for|att|skolan|inte|lyckats|lara|dem|svenska|sproket
+|p|: i|dag|hamnar|ha|sol|utan|i|for|efter|sorterna|livet|for|att|skolan|inte|lyckats|lara|och|svenska|sproket
+[sample: 175, WER: 40%, LER: 27.3504%, slice WER: 30.137%, slice LER: 15.4846%, progress: 47.7273%]
+|T|: de har ingen gymnasiekompetens som i dag kravs for ett stadjobb po sjukhus ett kassajobb eller for att skota tomburksautomaterna i handeln 
+|P|: det ar ingen inga skolan som i dag kravs ut stadjobb po sjukhus kassajobb eller att skota tomburksautomaterna i handen 
+|t|: de|har|ingen|gymnasiekompetens|som|i|dag|kravs|for|ett|stadjobb|po|sjukhus|ett|kassajobb|eller|for|att|skota|tomburksautomaterna|i|handeln
+|p|: det|ar|ingen|inga|skolan|som|i|dag|kravs|ut|stadjobb|po|sjukhus|kassajobb|eller|att|skota|tomburksautomaterna|i|handen
+[sample: 37, WER: 40.9091%, LER: 21.7391%, slice WER: 35.1724%, slice LER: 19.1562%, progress: 31.3726%]
+|T|: annat 
+|P|: annat 
+|t|: annat
+|p|: annat
+[sample: 141, WER: 0%, LER: 0%, slice WER: 34.9315%, slice LER: 19.0476%, progress: 33.3333%]
+|T|: under dessa extrema omstandigheter bryts traet ner till bland annat metan koloxid och vate 
+|P|: under dessa extrema omstandigheter bryts traet ner till bland annat metan koloxid och vate 
+|t|: under|dessa|extrema|omstandigheter|bryts|traet|ner|till|bland|annat|metan|koloxid|och|vate
+|p|: under|dessa|extrema|omstandigheter|bryts|traet|ner|till|bland|annat|metan|koloxid|och|vate
+[sample: 335, WER: 0%, LER: 0%, slice WER: 11.2069%, slice LER: 4.64481%, progress: 31.3726%]
+|T|: laska 
+|P|: laska 
+|t|: laska
+|p|: laska
+[sample: 319, WER: 0%, LER: 0%, slice WER: 11.1111%, slice LER: 4.6133%, progress: 33.3333%]
+|T|: dar har det frusit till is och klumpar har kommit in i motorn 
+|P|: dar har det finns tre is och klumpar har kommit in mot ton 
+|t|: dar|har|det|frusit|till|is|och|klumpar|har|kommit|in|i|motorn
+|p|: dar|har|det|finns|tre|is|och|klumpar|har|kommit|in|mot|ton
+[sample: 362, WER: 30.7692%, LER: 21.3115%, slice WER: 17.7966%, slice LER: 8.73016%, progress: 21.5686%]
+|T|: saker 
+|P|: saker 
+|t|: saker
+|p|: saker
+[sample: 94, WER: 0%, LER: 0%, slice WER: 11.0169%, slice LER: 4.58221%, progress: 35.2941%]
+|T|: det handlar om ett pogoende maktmissbruk och speglar varderingar dar kvinnan inte accepteras som mannens jamlike 
+|P|: det handlar om ett pogoende maktmissbruk och speglar varderingar dar kvinnan inte teresia mannen cancer 
+|t|: det|handlar|om|ett|pogoende|maktmissbruk|och|speglar|varderingar|dar|kvinnan|inte|accepteras|som|mannens|jamlike
+|p|: det|handlar|om|ett|pogoende|maktmissbruk|och|speglar|varderingar|dar|kvinnan|inte|teresia|mannen|cancer
+[sample: 348, WER: 25%, LER: 15.1786%, slice WER: 32.5397%, slice LER: 17.6093%, progress: 31.3726%]
+|T|: stor man so lange borjar man titta 
+|P|: stora so lange borjar man titta 
+|t|: stor|man|so|lange|borjar|man|titta
+|p|: stora|so|lange|borjar|man|titta
+[sample: 53, WER: 28.5714%, LER: 8.82353%, slice WER: 30.0654%, slice LER: 15.2273%, progress: 50%]
+|T|: darfor bor du redan nu fundera po att binda dina lon 
+|P|: darfor bor du redan nu fundera po att binda dina lon 
+|t|: darfor|bor|du|redan|nu|fundera|po|att|binda|dina|lon
+|p|: darfor|bor|du|redan|nu|fundera|po|att|binda|dina|lon
+[sample: 387, WER: 0%, LER: 0%, slice WER: 22.5352%, slice LER: 12.1637%, progress: 39.2157%]
+|T|: fem tre sex otta trettio femhundrasjuttiotvo 
+|P|: fem tre sex otta trettio femhundrasjuttiotvo 
+|t|: fem||tre||sex||otta||trettio||femhundrasjuttiotvo
+|p|: fem|tre|sex|otta|trettio|femhundrasjuttiotvo
+[sample: 79, WER: 0%, LER: 10.2041%, slice WER: 10.4839%, slice LER: 4.93047%, progress: 37.2549%]
+|T|: sextiofem tusen fyrahundraottioett 
+|P|: sextiofem tusen fyrahundraottioett 
+|t|: sextiofem|tusen|fyrahundraottioett
+|p|: sextiofem|tusen|fyrahundraottioett
+[sample: 299, WER: 0%, LER: 0%, slice WER: 31.7829%, slice LER: 16.8719%, progress: 33.3333%]
+|T|: landmarke 
+|P|: landmarke 
+|t|: landmarke
+|p|: landmarke
+[sample: 35, WER: 0%, LER: 0%, slice WER: 31.5385%, slice LER: 16.687%, progress: 35.2941%]
+|T|: tre sju sju fyra tjugootta tvohundraottiofyra 
+|P|: tre sju sju fyra otta tvohundraottiofyra 
+|t|: tre||sju||sju||fyra||tjugootta||tvohundraottiofyra
+|p|: tre|sju|sju|fyra|otta|tvohundraottiofyra
+[sample: 109, WER: 16.6667%, LER: 20%, slice WER: 17.7419%, slice LER: 9.42928%, progress: 23.5294%]
+|T|: traditionella 
+|P|: traditionella 
+|t|: traditionella
+|p|: traditionella
+[sample: 34, WER: 0%, LER: 0%, slice WER: 22.3776%, slice LER: 11.9816%, progress: 41.1765%]
+|T|: en man som inte berattar sanningsenligt om sitt mest privata kan inte betros att inneha det hogsta ambetet i varldens ledande nation 
+|P|: de an som inte berattar sanningsenligt om sitt mest privata for inte betros att inneha det hogsta ambetet i varldens ledande nation 
+|t|: en|man|som|inte|berattar|sanningsenligt|om|sitt|mest|privata|kan|inte|betros|att|inneha|det|hogsta|ambetet|i|varldens|ledande|nation
+|p|: de|an|som|inte|berattar|sanningsenligt|om|sitt|mest|privata|for|inte|betros|att|inneha|det|hogsta|ambetet|i|varldens|ledande|nation
+[sample: 41, WER: 13.6364%, LER: 4.54545%, slice WER: 14.9254%, slice LER: 7.53512%, progress: 33.3333%]
+|T|: ett utanforskap som i sin tur legitimerar ratten att kritisera 
+|P|: ett utanforskap som det inte legitimerar ratten att kritisera 
+|t|: ett|utanforskap|som|i|sin|tur|legitimerar|ratten|att|kritisera
+|p|: ett|utanforskap|som|det|inte|legitimerar|ratten|att|kritisera
+[sample: 183, WER: 30%, LER: 11.2903%, slice WER: 34.6154%, slice LER: 18.5381%, progress: 35.2941%]
+|T|: tvo tusen fem 
+|P|: tvo tusen fem 
+|t|: tvo|tusen|fem
+|p|: tvo|tusen|fem
+[sample: 208, WER: 0%, LER: 0%, slice WER: 33.9623%, slice LER: 18.2863%, progress: 37.2549%]
+|T|: tre fem tre otta femtioett ottahundranittioett 
+|P|: tre fem tre otta femtioett ottahundranittioett 
+|t|: tre||fem||tre||otta||femtioett||ottahundranittioett
+|p|: tre|fem|tre|otta|femtioett|ottahundranittioett
+[sample: 270, WER: 0%, LER: 9.80392%, slice WER: 10%, slice LER: 5.22565%, progress: 39.2157%]
+|T|: sexton tusen femtiotvo 
+|P|: sexton tusen femtiotvo 
+|t|: sexton|tusen|femtiotvo
+|p|: sexton|tusen|femtiotvo
+[sample: 115, WER: 0%, LER: 0%, slice WER: 9.77444%, slice LER: 5.09259%, progress: 41.1765%]
+|T|: missnoje med en bilfirma hor till namndens vanligaste arenden 
+|P|: mista dem en bilfirma har inga om en svag gaster amnen 
+|t|: missnoje|med|en|bilfirma|hor|till|namndens|vanligaste|arenden
+|p|: mista|dem|en|bilfirma|har|inga|om|en|svag|gaster|amnen
+[sample: 117, WER: 100%, LER: 40.9836%, slice WER: 33.9506%, slice LER: 16.8969%, progress: 52.2727%]
+|T|: sondagen 
+|P|: en dagen 
+|t|: sondagen
+|p|: en|dagen
+[sample: 61, WER: 200%, LER: 37.5%, slice WER: 34.9693%, slice LER: 17.0706%, progress: 54.5455%]
+|T|: for den som inte kan forsorja sig finns ett trygghetsnat ett grundskydd 
+|P|: for den som inte kan forsorja sig finns ett en att grundskydd 
+|t|: for|den|som|inte|kan|forsorja|sig|finns|ett|trygghetsnat|ett|grundskydd
+|p|: for|den|som|inte|kan|forsorja|sig|finns|ett|en|att|grundskydd
+[sample: 7, WER: 16.6667%, LER: 15.493%, slice WER: 17.6471%, slice LER: 9.92018%, progress: 25.4902%]
+|T|: mycket gors redan inom ramen for befintliga befogenheter 
+|P|: mycket gors redan inom ramen for befintliga befogenheter 
+|t|: mycket|gors|redan|inom|ramen|for|befintliga|befogenheter
+|p|: mycket|gors|redan|inom|ramen|for|befintliga|befogenheter
+[sample: 6, WER: 0%, LER: 0%, slice WER: 14.0845%, slice LER: 7.03218%, progress: 35.2941%]
+|T|: det gallde aven i de fall dar beroringen bara var en forsiktig klapp samtidigt som medicinen delades ut 
+|P|: det gallde aven i de fall dar beroringen bara var forsiktig klapp samtidigt som medicinen delades ut 
+|t|: det|gallde|aven|i|de|fall|dar|beroringen|bara|var|en|forsiktig|klapp|samtidigt|som|medicinen|delades|ut
+|p|: det|gallde|aven|i|de|fall|dar|beroringen|bara|var|forsiktig|klapp|samtidigt|som|medicinen|delades|ut
+[sample: 331, WER: 5.55556%, LER: 2.91262%, slice WER: 28.3784%, slice LER: 15.1515%, progress: 37.2549%]
+|T|: olivia lundin 
+|P|: olivia lundin 
+|t|: olivia|lundin
+|p|: olivia|lundin
+[sample: 90, WER: 0%, LER: 0%, slice WER: 13.8889%, slice LER: 6.92488%, progress: 37.2549%]
+|T|: de vill att jag skall sitta och lasa laxor ensam hela eftermiddagarna 
+|P|: de vill att laska sitta lasa laxor ensam har efter i agarna 
+|t|: de|vill|att|jag|skall|sitta|och|lasa|laxor|ensam|hela|eftermiddagarna
+|p|: de|vill|att|laska|sitta|lasa|laxor|ensam|har|efter|i|agarna
+[sample: 378, WER: 58.3333%, LER: 21.7391%, slice WER: 35.6725%, slice LER: 18.5185%, progress: 39.2157%]
+|T|: karleksaposteln rekommenderar dans boner och presenter och presenter till sig sjalv for att vardagens kosmos ska bli ett paradis 
+|P|: karleksaposteln rekommenderar dans granar och tusen er och presenter till sig sjalv for att vardagens kosmos ska bli ett paradis 
+|t|: karleksaposteln|rekommenderar|dans|boner|och|presenter|och|presenter|till|sig|sjalv|for|att|vardagens|kosmos|ska|bli|ett|paradis
+|p|: karleksaposteln|rekommenderar|dans|granar|och|tusen|er|och|presenter|till|sig|sjalv|for|att|vardagens|kosmos|ska|bli|ett|paradis
+[sample: 263, WER: 15.7895%, LER: 6.25%, slice WER: 25.3425%, slice LER: 12.6554%, progress: 39.2157%]
+|T|: motet fick dock stallas in sedan polisen gjort razzia 
+|P|: motet fick dock stallas in sig om polis igor resa 
+|t|: motet|fick|dock|stallas|in|sedan|polisen|gjort|razzia
+|p|: motet|fick|dock|stallas|in|sig|om|polis|igor|resa
+[sample: 112, WER: 55.5556%, LER: 26.4151%, slice WER: 36.0465%, slice LER: 17.5649%, progress: 56.8182%]
+|T|: monga vetenskapliga undersokningar visar att barn som gott i forskola klarar sig battre i grundskolan an barn som inte gjort det 
+|P|: monga vetenskapliga undersokningar visar barn som gott i forskola klarar sig att i grundskolan en bon som inte gjort 
+|t|: monga|vetenskapliga|undersokningar|visar|att|barn|som|gott|i|forskola|klarar|sig|battre|i|grundskolan|an|barn|som|inte|gjort|det
+|p|: monga|vetenskapliga|undersokningar|visar|barn|som|gott|i|forskola|klarar|sig|att|i|grundskolan|en|bon|som|inte|gjort
+[sample: 157, WER: 23.8095%, LER: 10.9375%, slice WER: 22.561%, slice LER: 11.8474%, progress: 43.1373%]
+|T|: asterisk 
+|P|: asterisk 
+|t|: asterisk
+|p|: asterisk
+[sample: 372, WER: 0%, LER: 0%, slice WER: 35.4651%, slice LER: 18.3752%, progress: 41.1765%]
+|T|: bocker 
+|P|: det ar 
+|t|: bocker
+|p|: det|ar
+[sample: 288, WER: 200%, LER: 83.3333%, slice WER: 23.6364%, slice LER: 12.2754%, progress: 45.098%]
+|T|: och so pekar han po nogra utvalda yrkesgrupper 
+|P|: och so pekar han po nogra utvalda yrkesgrupper 
+|t|: och|so|pekar|han|po|nogra|utvalda|yrkesgrupper
+|p|: och|so|pekar|han|po|nogra|utvalda|yrkesgrupper
+[sample: 280, WER: 0%, LER: 0%, slice WER: 16.6667%, slice LER: 9.42579%, progress: 27.451%]
+|T|: elise holgersson 
+|P|: elise holgersson 
+|t|: elise|holgersson
+|p|: elise|holgersson
+[sample: 57, WER: 0%, LER: 0%, slice WER: 16.4384%, slice LER: 9.26518%, progress: 29.4118%]
+|T|: e n o r m 
+|P|: e n o r m 
+|t|: e|n|o|r|m
+|p|: e|n|o|r|m
+[sample: 47, WER: 0%, LER: 0%, slice WER: 34.4633%, slice LER: 18.2167%, progress: 43.1373%]
+|T|: spara 
+|P|: spara 
+|t|: spara
+|p|: spara
+[sample: 60, WER: 0%, LER: 0%, slice WER: 16.3265%, slice LER: 9.2161%, progress: 31.3726%]
+|T|: det skapar ju en press po er att skota er 
+|P|: de skapar om press po er att for ater 
+|t|: det|skapar|ju|en|press|po|er|att|skota|er
+|p|: de|skapar|om|press|po|er|att|for|ater
+[sample: 54, WER: 50%, LER: 26.8293%, slice WER: 36.8132%, slice LER: 17.9291%, progress: 59.0909%]
+|T|: vi skall ta kontakt med primarvordsnamnden om detta 
+|P|: vi ska ta kontakt det primarvordsnamnden om detta 
+|t|: vi|skall|ta|kontakt|med|primarvordsnamnden|om|detta
+|p|: vi|ska|ta|kontakt|det|primarvordsnamnden|om|detta
+[sample: 301, WER: 25%, LER: 7.84314%, slice WER: 25.3247%, slice LER: 12.3932%, progress: 41.1765%]
+|T|: har du sett vora rara barnbarn som leker och busar ute i granntradgorden 
+|P|: har du sett vora rara barnbarn som leker och busar ute i granntradgorden 
+|t|: har|du|sett|vora|rara|barnbarn|som|leker|och|busar|ute|i|granntradgorden
+|p|: har|du|sett|vora|rara|barnbarn|som|leker|och|busar|ute|i|granntradgorden
+[sample: 262, WER: 0%, LER: 0%, slice WER: 26.087%, slice LER: 14.0562%, progress: 39.2157%]
+|T|: inte ens myggen har varit nogot storre problem do en latt bris blost de flesta dagar och hollit myggen po avstond 
+|P|: inte ens ingen har varit nogot storre problem har latt bris blost de flesta dagar och hollit myggen po avstond 
+|t|: inte|ens|myggen|har|varit|nogot|storre|problem|do|en|latt|bris|blost|de|flesta|dagar|och|hollit|myggen|po|avstond
+|p|: inte|ens|ingen|har|varit|nogot|storre|problem|har|latt|bris|blost|de|flesta|dagar|och|hollit|myggen|po|avstond
+[sample: 68, WER: 14.2857%, LER: 7.07965%, slice WER: 10.3896%, slice LER: 5.32242%, progress: 43.1373%]
+|T|: nittio tusen fyrahundrafjorton 
+|P|: nittio tusen fyrahundrafjorton 
+|t|: nittio|tusen|fyrahundrafjorton
+|p|: nittio|tusen|fyrahundrafjorton
+[sample: 122, WER: 0%, LER: 0%, slice WER: 33.8889%, slice LER: 17.7074%, progress: 45.098%]
+|T|: stycken 
+|P|: i en 
+|t|: stycken
+|p|: i|en
+[sample: 98, WER: 200%, LER: 71.4286%, slice WER: 34.8066%, slice LER: 18.0556%, progress: 47.0588%]
+|T|: tre ett otta ett nittio niohundrasjuttioett 
+|P|: tre ett otta ett nittio niohundrasjuttioett 
+|t|: tre||ett||otta||ett||nittio||niohundrasjuttioett
+|p|: tre|ett|otta|ett|nittio|niohundrasjuttioett
+[sample: 242, WER: 0%, LER: 10.4167%, slice WER: 25.1497%, slice LER: 13.8889%, progress: 41.1765%]
+|T|: vilken 
+|P|: vilken 
+|t|: vilken
+|p|: vilken
+[sample: 229, WER: 0%, LER: 0%, slice WER: 25%, slice LER: 13.8095%, progress: 43.1373%]
+|T|: om att sitta po verandan och sjunga blues 
+|P|: om att sitta po verandan och sjunga blues 
+|t|: om|att|sitta|po|verandan|och|sjunga|blues
+|p|: om|att|sitta|po|verandan|och|sjunga|blues
+[sample: 377, WER: 0%, LER: 0%, slice WER: 24.0741%, slice LER: 11.8731%, progress: 43.1373%]
+|T|: fron den positionen har de mojligheter att otervinna fortroende och forlorade valjare i takt med att ekonomin forbattras 
+|P|: fron den positionen har de mojligheter att otervinna fortroende och forlorade valjare ar via konto battre 
+|t|: fron|den|positionen|har|de|mojligheter|att|otervinna|fortroende|och|forlorade|valjare|i|takt|med|att|ekonomin|forbattras
+|p|: fron|den|positionen|har|de|mojligheter|att|otervinna|fortroende|och|forlorade|valjare|ar|via|konto|battre
+[sample: 36, WER: 33.3333%, LER: 17.5%, slice WER: 16.0494%, slice LER: 8.23045%, progress: 39.2157%]
+|T|: dimljus 
+|P|: i ju 
+|t|: dimljus
+|p|: i|ju
+[sample: 320, WER: 200%, LER: 57.1429%, slice WER: 26.0355%, slice LER: 14.0965%, progress: 45.098%]
+|T|: planerna 
+|P|: landerna 
+|t|: planerna
+|p|: landerna
+[sample: 201, WER: 100%, LER: 25%, slice WER: 16.5644%, slice LER: 8.36735%, progress: 41.1765%]
+|T|: det har blivit en ljus och mycket vacker bok 
+|P|: jag blivit en ljus att de nittio vacker och 
+|t|: det|har|blivit|en|ljus|och|mycket|vacker|bok
+|p|: jag|blivit|en|ljus|att|de|nittio|vacker|och
+[sample: 110, WER: 66.6667%, LER: 45.4545%, slice WER: 38.2199%, slice LER: 19.0432%, progress: 61.3636%]
+|T|: vor huslakare borjar i och for sig bli gammal och skroplig men han har ju ett sodant trevligt satt 
+|P|: vor huslakare borjar i och for sig bli gammal och skroplig men han har ju ett sodant trevligt satt 
+|t|: vor|huslakare|borjar|i|och|for|sig|bli|gammal|och|skroplig|men|han|har|ju|ett|sodant|trevligt|satt
+|p|: vor|huslakare|borjar|i|och|for|sig|bli|gammal|och|skroplig|men|han|har|ju|ett|sodant|trevligt|satt
+[sample: 234, WER: 0%, LER: 0%, slice WER: 21.1957%, slice LER: 11.1818%, progress: 47.0588%]
+|T|: w e s t i n 
+|P|: d e s t i n 
+|t|: w|e|s|t|i|n
+|p|: d|e|s|t|i|n
+[sample: 244, WER: 16.6667%, LER: 9.09091%, slice WER: 34.2246%, slice LER: 17.9652%, progress: 49.0196%]
+|T|: tjugootta tusen fyrahundrasextionio 
+|P|: tjugootta tusen fyrahundrasextionio 
+|t|: tjugootta|tusen|fyrahundrasextionio
+|p|: tjugootta|tusen|fyrahundrasextionio
+[sample: 248, WER: 0%, LER: 0%, slice WER: 37.6289%, slice LER: 18.4492%, progress: 63.6364%]
+|T|: s a g a n 
+|P|: s t a r b a n 
+|t|: s|a|g|a|n
+|p|: s|t|a|r|b|a|n
+[sample: 14, WER: 60%, LER: 55.5556%, slice WER: 25.1497%, slice LER: 12.2718%, progress: 45.098%]
+|T|: kvallen 
+|P|: kvallen 
+|t|: kvallen
+|p|: kvallen
+[sample: 139, WER: 0%, LER: 0%, slice WER: 37.4359%, slice LER: 18.3348%, progress: 65.9091%]
+|T|: sjuttio tusen tvohundranittiosju 
+|P|: sjuttio tusen tvohundranittiosju 
+|t|: sjuttio|tusen|tvohundranittiosju
+|p|: sjuttio|tusen|tvohundranittiosju
+[sample: 71, WER: 0%, LER: 0%, slice WER: 33.6842%, slice LER: 17.4533%, progress: 50.9804%]
+|T|: debatt 
+|P|: debatt 
+|t|: debatt
+|p|: debatt
+[sample: 137, WER: 0%, LER: 0%, slice WER: 25%, slice LER: 12.1976%, progress: 47.0588%]
+|T|: pojkarna 
+|P|: pojkarna 
+|t|: pojkarna
+|p|: pojkarna
+[sample: 230, WER: 0%, LER: 0%, slice WER: 37.2449%, slice LER: 18.2058%, progress: 68.1818%]
+|T|: d 
+|P|: de 
+|t|: d
+|p|: de
+[sample: 369, WER: 100%, LER: 100%, slice WER: 37.5635%, slice LER: 18.2777%, progress: 70.4545%]
+|T|: positiv 
+|P|: positiv 
+|t|: positiv
+|p|: positiv
+[sample: 367, WER: 0%, LER: 0%, slice WER: 33.5079%, slice LER: 17.3451%, progress: 52.9412%]
+|T|: oxarnas romanden stiger fron bakgrunden dar djuren reser sig som om de legat och sovit 
+|P|: oxarnas romanden stiger fron bakgrunden dar djuren reser sig som man legat och sovit 
+|t|: oxarnas|romanden|stiger|fron|bakgrunden|dar|djuren|reser|sig|som|om|de|legat|och|sovit
+|p|: oxarnas|romanden|stiger|fron|bakgrunden|dar|djuren|reser|sig|som|man|legat|och|sovit
+[sample: 87, WER: 13.3333%, LER: 4.65116%, slice WER: 16.0494%, slice LER: 8.83495%, progress: 33.3333%]
+|T|: los upp 
+|P|: los upp 
+|t|: los|upp
+|p|: los|upp
+[sample: 292, WER: 0%, LER: 0%, slice WER: 24.7059%, slice LER: 12.1121%, progress: 49.0196%]
+|T|: hildegard sjostrand 
+|P|: hildegard sjostrand 
+|t|: hildegard|sjostrand
+|p|: hildegard|sjostrand
+[sample: 254, WER: 0%, LER: 0%, slice WER: 37.1859%, slice LER: 17.9775%, progress: 72.7273%]
+|T|: forbattra 
+|P|: for battre 
+|t|: forbattra
+|p|: for|battre
+[sample: 200, WER: 200%, LER: 22.2222%, slice WER: 38%, slice LER: 18.0103%, progress: 75%]
+|T|: hur mycket ronarna kommit over stod inte klart po mondagskvallen 
+|P|: hur mycket ronarna kommit darfor in i klar om hundra stallen 
+|t|: hur|mycket|ronarna|kommit|over|stod|inte|klart|po|mondagskvallen
+|p|: hur|mycket|ronarna|kommit|darfor|in|i|klar|om|hundra|stallen
+[sample: 182, WER: 70%, LER: 28.125%, slice WER: 23.7113%, slice LER: 12.1134%, progress: 49.0196%]
+|T|: du mo tro vilken napen fogelunge som log och gapade och pep efter mat i vort fogelbo po landet 
+|P|: du mo tro vilken napen fogelunge som log och gapade och pep efter mat i vort fogelbo po landet 
+|t|: du|mo|tro|vilken|napen|fogelunge|som|log|och|gapade|och|pep|efter|mat|i|vort|fogelbo|po|landet
+|p|: du|mo|tro|vilken|napen|fogelunge|som|log|och|gapade|och|pep|efter|mat|i|vort|fogelbo|po|landet
+[sample: 205, WER: 0%, LER: 0%, slice WER: 14.8352%, slice LER: 7.63501%, progress: 43.1373%]
+|T|: det tar bara en halvtimme dit 
+|P|: i det ar var hallin lik 
+|t|: det|tar|bara|en|halvtimme|dit
+|p|: i|det|ar|var|hallin|lik
+[sample: 221, WER: 100%, LER: 51.7241%, slice WER: 19.0476%, slice LER: 10.0094%, progress: 35.2941%]
+|T|: sune lidstrom 
+|P|: sune lidstrom 
+|t|: sune|lidstrom
+|p|: sune|lidstrom
+[sample: 340, WER: 0%, LER: 0%, slice WER: 37.6238%, slice LER: 17.8117%, progress: 77.2727%]
+|T|: i sjuan blir det mycket tekniktraning for fotbollseleverna 
+|P|: i sjuan blir det mycket tekniktraning for for passagerarna 
+|t|: i|sjuan|blir|det|mycket|tekniktraning|for|fotbollseleverna
+|p|: i|sjuan|blir|det|mycket|tekniktraning|for|for|passagerarna
+[sample: 339, WER: 25%, LER: 15.5172%, slice WER: 33.1658%, slice LER: 17.2559%, progress: 54.902%]
+|T|: oryd 
+|P|: oryd 
+|t|: oryd
+|p|: oryd
+[sample: 286, WER: 0%, LER: 0%, slice WER: 14.7541%, slice LER: 7.60668%, progress: 45.098%]
+|T|: den gratinerade hummer vi provade var dock bara halvljummen och serverades med halvt fardigrostad vanlig formfranska 
+|P|: den gratinerade hummer vi provade var dock bara halvljummen och serverades med haft farg och sa vanlig formfranska 
+|t|: den|gratinerade|hummer|vi|provade|var|dock|bara|halvljummen|och|serverades|med|halvt|fardigrostad|vanlig|formfranska
+|p|: den|gratinerade|hummer|vi|provade|var|dock|bara|halvljummen|och|serverades|med|haft|farg|och|sa|vanlig|formfranska
+[sample: 66, WER: 25%, LER: 8.62069%, slice WER: 11.7647%, slice LER: 5.67246%, progress: 45.098%]
+|T|: det finns alldeles for fo egensinniga forebilder for kvinnor i dag so om jag kan bidra lite grann so kanns det bra 
+|P|: det finns alldeles for fo egensinniga forebilder for kvinnor i dag som ar en bidra lite grann so kanns det bra 
+|t|: det|finns|alldeles|for|fo|egensinniga|forebilder|for|kvinnor|i|dag|so|om|jag|kan|bidra|lite|grann|so|kanns|det|bra
+|p|: det|finns|alldeles|for|fo|egensinniga|forebilder|for|kvinnor|i|dag|som|ar|en|bidra|lite|grann|so|kanns|det|bra
+[sample: 349, WER: 18.1818%, LER: 5.26316%, slice WER: 25.1309%, slice LER: 13.2365%, progress: 47.0588%]
+|T|: b r o s t r o m 
+|P|: b r o s t r o n 
+|t|: b|r|o|s|t|r|o|m
+|p|: b|r|o|s|t|r|o|n
+[sample: 365, WER: 12.5%, LER: 6.66667%, slice WER: 14.6597%, slice LER: 7.59378%, progress: 47.0588%]
+|T|: gladje 
+|P|: lade 
+|t|: gladje
+|p|: lade
+[sample: 97, WER: 100%, LER: 33.3333%, slice WER: 25.5208%, slice LER: 13.339%, progress: 49.0196%]
+|T|: grundkravet ar att det ska vara ett statligt jobb 
+|P|: andra ar det for ett statligt jobb 
+|t|: grundkravet|ar|att|det|ska|vara|ett|statligt|jobb
+|p|: andra|ar|det|for|ett|statligt|jobb
+[sample: 189, WER: 44.4444%, LER: 36.7347%, slice WER: 20.339%, slice LER: 11.1913%, progress: 37.2549%]
+|T|: sjutton tusen niohundranittio 
+|P|: sjutton tusen niohundranittio 
+|t|: sjutton|tusen|niohundranittio
+|p|: sjutton|tusen|niohundranittio
+[sample: 323, WER: 0%, LER: 0%, slice WER: 14.433%, slice LER: 7.3975%, progress: 49.0196%]
+|T|: peka 
+|P|: peka 
+|t|: peka
+|p|: peka
+[sample: 259, WER: 0%, LER: 0%, slice WER: 20.2247%, slice LER: 11.1511%, progress: 39.2157%]
+|T|: for juryn har det inte rott nogon som helst tvekan om att alltihopa ar forfalskat 
+|P|: ful en ar inte att los helst tvekan om att alno ar forfalskat 
+|t|: for|juryn|har|det|inte|rott|nogon|som|helst|tvekan|om|att|alltihopa|ar|forfalskat
+|p|: ful|en|ar|inte|att|los|helst|tvekan|om|att|alno|ar|forfalskat
+[sample: 13, WER: 53.3333%, LER: 32.0988%, slice WER: 27.027%, slice LER: 13.6111%, progress: 50.9804%]
+|T|: nygord 
+|P|: nygord 
+|t|: nygord
+|p|: nygord
+[sample: 285, WER: 0%, LER: 0%, slice WER: 20.1117%, slice LER: 11.0912%, progress: 41.1765%]
+|T|: av allt han dricker blir han svettig anda upp po hjassan 
+|P|: av allt han dricker blir han satte anda upp olga sen 
+|t|: av|allt|han|dricker|blir|han|svettig|anda|upp|po|hjassan
+|p|: av|allt|han|dricker|blir|han|satte|anda|upp|olga|sen
+[sample: 354, WER: 27.2727%, LER: 17.8571%, slice WER: 23.9024%, slice LER: 12.377%, progress: 50.9804%]
+|T|: n o g g r a n n 
+|P|: n o g g r a n n 
+|t|: n|o|g|g|r|a|n|n
+|p|: n|o|g|g|r|a|n|n
+[sample: 29, WER: 0%, LER: 0%, slice WER: 11.236%, slice LER: 5.59567%, progress: 47.0588%]
+|T|: namligen att vi inte vann matchen for det skulle vi ha gjort 
+|P|: namligen att de inte vann matchen for det skulle vi ha gjort 
+|t|: namligen|att|vi|inte|vann|matchen|for|det|skulle|vi|ha|gjort
+|p|: namligen|att|de|inte|vann|matchen|for|det|skulle|vi|ha|gjort
+[sample: 381, WER: 8.33333%, LER: 3.33333%, slice WER: 31.7536%, slice LER: 16.5865%, progress: 56.8627%]
+|T|: sju sex tvo sju tjugo trehundraottiosex 
+|P|: sju sex tvo sju tjugo trehundraottiosex 
+|t|: sju||sex||tvo||sju||tjugo||trehundraottiosex
+|p|: sju|sex|tvo|sju|tjugo|trehundraottiosex
+[sample: 217, WER: 0%, LER: 11.3636%, slice WER: 10.8696%, slice LER: 5.81597%, progress: 49.0196%]
+|T|: ordningsmakten lat dem fo sin skymt innan det oter bar av hemot 
+|P|: ordningsmakten lat dem fo sin skymt innan det oter bar av hemot 
+|t|: ordningsmakten|lat|dem|fo|sin|skymt|innan|det|oter|bar|av|hemot
+|p|: ordningsmakten|lat|dem|fo|sin|skymt|innan|det|oter|bar|av|hemot
+[sample: 27, WER: 0%, LER: 0%, slice WER: 13.5922%, slice LER: 7.00422%, progress: 50.9804%]
+|T|: for detta har han fott mycket kritik men det hindrade inte hans breda valseger 
+|P|: for detta har han fott mycket icke modet hindrade inte hans breda valseger 
+|t|: for|detta|har|han|fott|mycket|kritik|men|det|hindrade|inte|hans|breda|valseger
+|p|: for|detta|har|han|fott|mycket|icke|modet|hindrade|inte|hans|breda|valseger
+[sample: 306, WER: 21.4286%, LER: 10.2564%, slice WER: 25.2427%, slice LER: 13.1474%, progress: 50.9804%]
+|T|: sju otta sju tre trettioett sjuhundrasextiootta 
+|P|: sju otta sju tre trettioett sjuhundrasextiootta 
+|t|: sju||otta||sju||tre||trettioett||sjuhundrasextiootta
+|p|: sju|otta|sju|tre|trettioett|sjuhundrasextiootta
+[sample: 156, WER: 0%, LER: 9.61538%, slice WER: 10.5263%, slice LER: 5.98007%, progress: 50.9804%]
+|T|: nedot 
+|P|: ned att 
+|t|: nedot
+|p|: ned|att
+[sample: 202, WER: 200%, LER: 60%, slice WER: 11.5183%, slice LER: 6.20347%, progress: 52.9412%]
+|T|: mamma var tillbaka och satt i doktorns mottagningsrum nar de tre kom in 
+|P|: man har ar bara satt i doktorns mottagningsrum nar de tre kom in 
+|t|: mamma|var|tillbaka|och|satt|i|doktorns|mottagningsrum|nar|de|tre|kom|in
+|p|: man|har|ar|bara|satt|i|doktorns|mottagningsrum|nar|de|tre|kom|in
+[sample: 25, WER: 30.7692%, LER: 18.3099%, slice WER: 27.2727%, slice LER: 13.901%, progress: 52.9412%]
+|T|: ottiosex tusen sjuhundratolv 
+|P|: ottiosex tusen sjuhundratolv 
+|t|: ottiosex|tusen|sjuhundratolv
+|p|: ottiosex|tusen|sjuhundratolv
+[sample: 304, WER: 0%, LER: 0%, slice WER: 24.8804%, slice LER: 12.8605%, progress: 52.9412%]
+|T|: lerdala 
+|P|: lerdala 
+|t|: lerdala
+|p|: lerdala
+[sample: 227, WER: 0%, LER: 0%, slice WER: 27.1357%, slice LER: 13.8169%, progress: 54.902%]
+|T|: balans 
+|P|: balans 
+|t|: balans
+|p|: balans
+[sample: 321, WER: 0%, LER: 0%, slice WER: 11.4583%, slice LER: 6.17284%, progress: 54.902%]
+|T|: avgorande for den ekonomiska utvecklingen ar annars att arbetsmarknadens parter verkligen blir overens om lonebildningen och arbetsmarknadens fornyelse 
+|P|: avgjorde for ekonomiska utveckling ar annars arbetsmarknadens parter verkligen blir overens om lonebildningen arbetsmarknadens fornyelse 
+|t|: avgorande|for|den|ekonomiska|utvecklingen|ar|annars|att|arbetsmarknadens|parter|verkligen|blir|overens|om|lonebildningen|och|arbetsmarknadens|fornyelse
+|p|: avgjorde|for|ekonomiska|utveckling|ar|annars|arbetsmarknadens|parter|verkligen|blir|overens|om|lonebildningen|arbetsmarknadens|fornyelse
+[sample: 1, WER: 27.7778%, LER: 11.2583%, slice WER: 36.8182%, slice LER: 17.0677%, progress: 79.5455%]
+|T|: forsens don leder honom fram till vattnet och borje vill rora vid det med fotterna fast han vet att det ar farligt 
+|P|: forsens don leder honom fram till vattnet och borje vill rora vid det med fotterna fast han vet att ar farligt 
+|t|: forsens|don|leder|honom|fram|till|vattnet|och|borje|vill|rora|vid|det|med|fotterna|fast|han|vet|att|det|ar|farligt
+|p|: forsens|don|leder|honom|fram|till|vattnet|och|borje|vill|rora|vid|det|med|fotterna|fast|han|vet|att|ar|farligt
+[sample: 174, WER: 4.54545%, LER: 3.50877%, slice WER: 22.0264%, slice LER: 11.6192%, progress: 52.9412%]
+|T|: riksdagshuset ser verkligen gammalt och slitet ut bredvid den nyrenoverade kyrkan 
+|P|: riksdagshuset ser verkligen gammalt och slitet ut bredvid den nyrenoverade kyrkan 
+|t|: riksdagshuset|ser|verkligen|gammalt|och|slitet|ut|bredvid|den|nyrenoverade|kyrkan
+|p|: riksdagshuset|ser|verkligen|gammalt|och|slitet|ut|bredvid|den|nyrenoverade|kyrkan
+[sample: 373, WER: 0%, LER: 0%, slice WER: 18.9474%, slice LER: 10.342%, progress: 43.1373%]
+|T|: josef roos 
+|P|: juste oro 
+|t|: josef|roos
+|p|: juste|oro
+[sample: 165, WER: 100%, LER: 60%, slice WER: 37.3874%, slice LER: 17.3881%, progress: 81.8182%]
+|T|: femton 
+|P|: femton 
+|t|: femton
+|p|: femton
+[sample: 293, WER: 0%, LER: 0%, slice WER: 37.2197%, slice LER: 17.3105%, progress: 84.0909%]
+|T|: vindelgransele 
+|P|: vindelgransele 
+|t|: vindelgransele
+|p|: vindelgransele
+[sample: 397, WER: 0%, LER: 0%, slice WER: 27%, slice LER: 13.6519%, progress: 56.8627%]
+|T|: darav ockso vissa problem i ett verk som detta 
+|P|: bara var so lisa problemet verk som detta 
+|t|: darav|ockso|vissa|problem|i|ett|verk|som|detta
+|p|: bara|var|so|lisa|problemet|verk|som|detta
+[sample: 300, WER: 66.6667%, LER: 26.087%, slice WER: 26.6055%, slice LER: 13.3183%, progress: 54.902%]
+|T|: den forfinade tekniken har gjort inspelningsperioderna langre 
+|P|: den forfinade tekniken arg och inspelningsperioderna langre 
+|t|: den|forfinade|tekniken|har|gjort|inspelningsperioderna|langre
+|p|: den|forfinade|tekniken|arg|och|inspelningsperioderna|langre
+[sample: 211, WER: 28.5714%, LER: 8.19672%, slice WER: 14.0845%, slice LER: 7.0626%, progress: 52.9412%]
+|T|: de stora yrkeskategorierna i medlemskoren ar administratorer kanslister och assistenter 
+|P|: de stora yrkeskategorierna i medlemskoren ar administratorer kanslister och assistenter 
+|t|: de|stora|yrkeskategorierna|i|medlemskoren|ar|administratorer|kanslister|och|assistenter
+|p|: de|stora|yrkeskategorierna|i|medlemskoren|ar|administratorer|kanslister|och|assistenter
+[sample: 129, WER: 0%, LER: 0%, slice WER: 30.3167%, slice LER: 15.5056%, progress: 58.8235%]
+|T|: tappade 
+|P|: tappade 
+|t|: tappade
+|p|: tappade
+[sample: 399, WER: 0%, LER: 0%, slice WER: 30.1802%, slice LER: 15.4247%, progress: 60.7843%]
+|T|: jag trodde det rorde sig om en startpistol 
+|P|: jag trodde det rorde sig om en startpistol 
+|t|: jag|trodde|det|rorde|sig|om|en|startpistol
+|p|: jag|trodde|det|rorde|sig|om|en|startpistol
+[sample: 382, WER: 0%, LER: 0%, slice WER: 21.2766%, slice LER: 11.2645%, progress: 54.902%]
+|T|: vi var inte i narheten av en sodan katastrof 
+|P|: vi var inte i narheten av en sodan katastrof 
+|t|: vi|var|inte|i|narheten|av|en|sodan|katastrof
+|p|: vi|var|inte|i|narheten|av|en|sodan|katastrof
+[sample: 241, WER: 0%, LER: 0%, slice WER: 18.0905%, slice LER: 9.97586%, progress: 45.098%]
+|T|: i dag har drommen forvandlats till en mardrom punkt 
+|P|: dag har drommen fron andra stilen mardrom punkt 
+|t|: i|dag|har|drommen|forvandlats|till|en|mardrom|punkt
+|p|: dag|har|drommen|fron|andra|stilen|mardrom|punkt
+[sample: 251, WER: 44.4444%, LER: 19.6078%, slice WER: 37.5%, slice LER: 17.3944%, progress: 86.3636%]
+|T|: fyra sex tvo fyra sextio sjuhundranittiootta 
+|P|: fyra sex tvo fyra sextio sjuhundranittiootta 
+|t|: fyra||sex||tvo||fyra||sextio||sjuhundranittiootta
+|p|: fyra|sex|tvo|fyra|sextio|sjuhundranittiootta
+[sample: 277, WER: 0%, LER: 10.2041%, slice WER: 13.6986%, slice LER: 7.18147%, progress: 54.902%]
+|T|: sex otta fem fyra femton fyrahundrasextiofem 
+|P|: sex otta fem fyra femton fyrahundrasextiofem 
+|t|: sex||otta||fem||fyra||femton||fyrahundrasextiofem
+|p|: sex|otta|fem|fyra|femton|fyrahundrasextiofem
+[sample: 207, WER: 0%, LER: 10.2041%, slice WER: 20.7469%, slice LER: 11.2281%, progress: 56.8627%]
+|T|: fram till nu har det varit oklart bode nar posten ska tillsattas och vilken profil personen som for jobbet ska ha 
+|P|: fram inget har varit oklart bode nar posten ska tillsattas po vilken profil personen som for jobbet ska ha 
+|t|: fram|till|nu|har|det|varit|oklart|bode|nar|posten|ska|tillsattas|och|vilken|profil|personen|som|for|jobbet|ska|ha
+|p|: fram|inget|har|varit|oklart|bode|nar|posten|ska|tillsattas|po|vilken|profil|personen|som|for|jobbet|ska|ha
+[sample: 106, WER: 19.0476%, LER: 11.5044%, slice WER: 12.2066%, slice LER: 6.62651%, progress: 56.8627%]
+|T|: sub-woofer 
+|P|: sub-woofer 
+|t|: sub-woofer
+|p|: sub-woofer
+[sample: 371, WER: 0%, LER: 0%, slice WER: 12.1495%, slice LER: 6.57698%, progress: 58.8235%]
+|T|: en storre del av befolkningen kommer i stallet att vara sysselsatt inom vordsektorn social service och kommunikation 
+|P|: den stora del av befolkningen mista att vara sysselsatt inom vordsektorn social sorts kommunikation 
+|t|: en|storre|del|av|befolkningen|kommer|i|stallet|att|vara|sysselsatt|inom|vordsektorn|social|service|och|kommunikation
+|p|: den|stora|del|av|befolkningen|mista|att|vara|sysselsatt|inom|vordsektorn|social|sorts|kommunikation
+[sample: 190, WER: 41.1765%, LER: 19.8276%, slice WER: 28.1106%, slice LER: 14.2081%, progress: 58.8235%]
+|T|: genom att mosa storre delen av vort stormaktsvalde gjorde han oss politiskt ointressanta for omvarlden 
+|P|: en och att mosa storre delen av vort stormaktsvalde gjorde han oss politiskt ointressanta for omvarlden 
+|t|: genom|att|mosa|storre|delen|av|vort|stormaktsvalde|gjorde|han|oss|politiskt|ointressanta|for|omvarlden
+|p|: en|och|att|mosa|storre|delen|av|vort|stormaktsvalde|gjorde|han|oss|politiskt|ointressanta|for|omvarlden
+[sample: 75, WER: 13.3333%, LER: 3.92157%, slice WER: 25.7511%, slice LER: 12.6485%, progress: 56.8627%]
+|T|: ett fyra tre tvo nittiofyra fyrahundrafyrtioett 
+|P|: ett fyra tre tvo nittiofyra fyrahundrafyrtioett 
+|t|: ett||fyra||tre||tvo||nittiofyra||fyrahundrafyrtioett
+|p|: ett|fyra|tre|tvo|nittiofyra|fyrahundrafyrtioett
+[sample: 307, WER: 0%, LER: 9.61538%, slice WER: 27.3543%, slice LER: 14.0299%, progress: 60.7843%]
+|T|: bode teatertaltet och den tyska rockcirkusen har haft fullsatt i stort sett varje kvall 
+|P|: bode teatertaltet r kan tyska och sig po samma att fullsatt i stort sett varje kvall 
+|t|: bode|teatertaltet|och|den|tyska|rockcirkusen|har|haft|fullsatt|i|stort|sett|varje|kvall
+|p|: bode|teatertaltet|r|kan|tyska|och|sig|po|samma|att|fullsatt|i|stort|sett|varje|kvall
+[sample: 325, WER: 50%, LER: 24.1379%, slice WER: 20.1878%, slice LER: 10.9023%, progress: 47.0588%]
+|T|: de brukade alltid med ett leende saga att tomten var snall rar och fin 
+|P|: de brukade alltid med ett leende saga att tomten man eller rar och fin 
+|t|: de|brukade|alltid|med|ett|leende|saga|att|tomten|var|snall|rar|och|fin
+|p|: de|brukade|alltid|med|ett|leende|saga|att|tomten|man|eller|rar|och|fin
+[sample: 352, WER: 14.2857%, LER: 10%, slice WER: 36.1789%, slice LER: 17.0416%, progress: 88.6364%]
+|T|: det betyder att kriminella som sonat sina brott inte behover avsloja sin bakgrund for en blivande arbetsgivare 
+|P|: det betyder att kriminella som sonat sina brott inte over avsloja i bakre for en blivande arbetsgivare 
+|t|: det|betyder|att|kriminella|som|sonat|sina|brott|inte|behover|avsloja|sin|bakgrund|for|en|blivande|arbetsgivare
+|p|: det|betyder|att|kriminella|som|sonat|sina|brott|inte|over|avsloja|i|bakre|for|en|blivande|arbetsgivare
+[sample: 264, WER: 17.6471%, LER: 8.18182%, slice WER: 29.2887%, slice LER: 14.876%, progress: 62.7451%]
+|T|: artikel 
+|P|: ar tycker 
+|t|: artikel
+|p|: ar|tycker
+[sample: 199, WER: 200%, LER: 57.1429%, slice WER: 36.8421%, slice LER: 17.232%, progress: 90.9091%]
+|T|: ett argument som framforts ockso bland politiker ar att kreativiteten moste fo blomma 
+|P|: av de men som framforts ockso bland politiker ar att rattigheter moste fo blomma 
+|t|: ett|argument|som|framforts|ockso|bland|politiker|ar|att|kreativiteten|moste|fo|blomma
+|p|: av|de|men|som|framforts|ockso|bland|politiker|ar|att|rattigheter|moste|fo|blomma
+[sample: 51, WER: 30.7692%, LER: 17.6471%, slice WER: 21.2598%, slice LER: 11.5894%, progress: 58.8235%]
+|T|: noteringar 
+|P|: noteringar 
+|t|: noteringar
+|p|: noteringar
+[sample: 232, WER: 0%, LER: 0%, slice WER: 21.1765%, slice LER: 11.5132%, progress: 60.7843%]
+|T|: otta tvo fyra sex fyrtioett fyrahundrasextiotvo 
+|P|: otta tvo fyra sex fyrtioett fyrahundrasextiotvo 
+|t|: otta||tvo||fyra||sex||fyrtioett||fyrahundrasextiotvo
+|p|: otta|tvo|fyra|sex|fyrtioett|fyrahundrasextiotvo
+[sample: 80, WER: 0%, LER: 9.61538%, slice WER: 19.6347%, slice LER: 10.8538%, progress: 49.0196%]
+|T|: hammerdal 
+|P|: han ar 
+|t|: hammerdal
+|p|: han|ar|dal
+[sample: 30, WER: 200%, LER: 44.4444%, slice WER: 21.875%, slice LER: 11.707%, progress: 62.7451%]
+|T|: vi kan inte vanta oss nogot mirakel av en sodan har tavling 
+|P|: vi kan inte vanta oss nogot mirakel av en sodan har tavling 
+|t|: vi|kan|inte|vanta|oss|nogot|mirakel|av|en|sodan|har|tavling
+|p|: vi|kan|inte|vanta|oss|nogot|mirakel|av|en|sodan|har|tavling
+[sample: 275, WER: 0%, LER: 0%, slice WER: 11.5044%, slice LER: 6.29921%, progress: 60.7843%]
+|T|: teodor oslund 
+|P|: tre dar oslund 
+|t|: teodor|oslund
+|p|: tre|dar|oslund
+[sample: 342, WER: 100%, LER: 23.0769%, slice WER: 20.362%, slice LER: 10.9677%, progress: 50.9804%]
+|T|: fler huslakare betyder farre jobb for underskoterskor och bitraden po vordcentralerna kanske aven for distriktsskoterskor 
+|P|: fler huslakare betyder farre jobb for underskoterskor och bitraden po vordcentralerna kanske aven for distriktsskoterskor 
+|t|: fler|huslakare|betyder|farre|jobb|for|underskoterskor|och|bitraden|po|vordcentralerna|kanske|aven|for|distriktsskoterskor
+|p|: fler|huslakare|betyder|farre|jobb|for|underskoterskor|och|bitraden|po|vordcentralerna|kanske|aven|for|distriktsskoterskor
+[sample: 351, WER: 0%, LER: 0%, slice WER: 12.8205%, slice LER: 6.5678%, progress: 56.8627%]
+|T|: tvo fyra sju ett nittiosju tvohundrasjutton 
+|P|: tvo fyra sju ett nittiosju tvohundrasjutton 
+|t|: tvo||fyra||sju||ett||nittiosju||tvohundrasjutton
+|p|: tvo|fyra|sju|ett|nittiosju|tvohundrasjutton
+[sample: 8, WER: 0%, LER: 10.4167%, slice WER: 21.374%, slice LER: 11.6677%, progress: 64.7059%]
+|T|: lasse och kjell har sett hur gubben mittemot brukar leta tomburkar i kvallsmorkret 
+|P|: lasse och kjell har sett hur gubben mittemot brukar leta tomburkar i kvallsmorkret 
+|t|: lasse|och|kjell|har|sett|hur|gubben|mittemot|brukar|leta|tomburkar|i|kvallsmorkret
+|p|: lasse|och|kjell|har|sett|hur|gubben|mittemot|brukar|leta|tomburkar|i|kvallsmorkret
+[sample: 102, WER: 0%, LER: 0%, slice WER: 24.3902%, slice LER: 11.963%, progress: 58.8235%]
+|T|: en nybildad foraldraforening kraver nu att politikerna skjuter ett beslut po framtiden 
+|P|: den nybildad foraldraforening kraver ger att politikerna skjuter beslut po framtiden 
+|t|: en|nybildad|foraldraforening|kraver|nu|att|politikerna|skjuter|ett|beslut|po|framtiden
+|p|: den|nybildad|foraldraforening|kraver|ger|att|politikerna|skjuter|beslut|po|framtiden
+[sample: 46, WER: 25%, LER: 9.30233%, slice WER: 27.234%, slice LER: 13.7447%, progress: 62.7451%]
+|T|: den frigjorda energin ger upphov till elastiska vogor genom jorden 
+|P|: den frigjorda maskiner upp po till elastiska vogor genom jorden 
+|t|: den|frigjorda|energin|ger|upphov|till|elastiska|vogor|genom|jorden
+|p|: den|frigjorda|maskiner|upp|po|till|elastiska|vogor|genom|jorden
+[sample: 332, WER: 30%, LER: 15.1515%, slice WER: 29.3173%, slice LER: 14.888%, progress: 64.7059%]
+|T|: bjuroker 
+|P|: bjuroker 
+|t|: bjuroker
+|p|: bjuroker
+[sample: 396, WER: 0%, LER: 0%, slice WER: 24.2915%, slice LER: 11.9001%, progress: 60.7843%]
+|T|: jag kanner att det behovs en nytandning 
+|P|: ar kanner att det behovs en aning 
+|t|: jag|kanner|att|det|behovs|en|nytandning
+|p|: ar|kanner|att|det|behovs|en|aning
+[sample: 130, WER: 28.5714%, LER: 17.9487%, slice WER: 20.614%, slice LER: 11.1576%, progress: 52.9412%]
+|T|: och det kommer de att gora 
+|P|: och de kommer de att gora 
+|t|: och|det|kommer|de|att|gora
+|p|: och|de|kommer|de|att|gora
+[sample: 359, WER: 16.6667%, LER: 3.84615%, slice WER: 24.1107%, slice LER: 11.7647%, progress: 62.7451%]
+|T|: ottiotvo tusen femhundraottiotre 
+|P|: ottiotvo tusen femhundraottiotre 
+|t|: ottiotvo|tusen|femhundraottiotre
+|p|: ottiotvo|tusen|femhundraottiotre
+[sample: 209, WER: 0%, LER: 0%, slice WER: 20.3463%, slice LER: 10.9141%, progress: 54.902%]
+|T|: visserligen ar lader ett harligt naturmaterial men det ar lite besvarligt att rengora so jag brukar borsta jackan 
+|P|: visserligen ar lader ett harligt naturmaterial men det ar lite besvarligt de rengora soka oskan 
+|t|: visserligen|ar|lader|ett|harligt|naturmaterial|men|det|ar|lite|besvarligt|att|rengora|so|jag|brukar|borsta|jackan
+|p|: visserligen|ar|lader|ett|harligt|naturmaterial|men|det|ar|lite|besvarligt|de|rengora|soka|oskan
+[sample: 0, WER: 33.3333%, LER: 17.6991%, slice WER: 36.6038%, slice LER: 17.2653%, progress: 93.1818%]
+|T|: tidigare instruktion 
+|P|: tidigare instruktion 
+|t|: tidigare|instruktion
+|p|: tidigare|instruktion
+[sample: 144, WER: 0%, LER: 0%, slice WER: 23.9216%, slice LER: 11.6146%, progress: 64.7059%]
+|T|: klagstorp 
+|P|: klagstorp 
+|t|: klagstorp
+|p|: klagstorp
+[sample: 32, WER: 0%, LER: 0%, slice WER: 20.2586%, slice LER: 10.8475%, progress: 56.8627%]
+|T|: de letar efter varje tecken po att han vacklar for att kunna satta in nasta stot 
+|P|: de letar efter varje tecken po att han vacklar for att kunna satta in nasta stot 
+|t|: de|letar|efter|varje|tecken|po|att|han|vacklar|for|att|kunna|satta|in|nasta|stot
+|p|: de|letar|efter|varje|tecken|po|att|han|vacklar|for|att|kunna|satta|in|nasta|stot
+[sample: 151, WER: 0%, LER: 0%, slice WER: 12%, slice LER: 6.21658%, progress: 58.8235%]
+|T|: hur bra for vi se for det ar monga som vill vara med i toppen 
+|P|: u bra for vi se for dar monga som vill vara med i toppen 
+|t|: hur|bra|for|vi|se|for|det|ar|monga|som|vill|vara|med|i|toppen
+|p|: u|bra|for|vi|se|for|dar|monga|som|vill|vara|med|i|toppen
+[sample: 281, WER: 20%, LER: 8.19672%, slice WER: 26.8%, slice LER: 13.5171%, progress: 64.7059%]
+|T|: yxlan 
+|P|: de svar 
+|t|: yxlan
+|p|: de|svar
+[sample: 257, WER: 200%, LER: 120%, slice WER: 21.03%, slice LER: 11.2162%, progress: 58.8235%]
+|T|: i vissa forhollanden for kvinnan till och med kopa presenter till sig sjalv fron maken 
+|P|: i vissa forhollanden for kvinnan till och med so att center till sig sjalv fron maken 
+|t|: i|vissa|forhollanden|for|kvinnan|till|och|med|kopa|presenter|till|sig|sjalv|fron|maken
+|p|: i|vissa|forhollanden|for|kvinnan|till|och|med|so|att|center|till|sig|sjalv|fron|maken
+[sample: 363, WER: 20%, LER: 8.13953%, slice WER: 21.2996%, slice LER: 11.4853%, progress: 66.6667%]
+|T|: otta tre ett sex ottioett trehundrafyrtiotre 
+|P|: otta tre ett sex ottioett trehundrafyrtiotre 
+|t|: otta||tre||ett||sex||ottioett||trehundrafyrtiotre
+|p|: otta|tre|ett|sex|ottioett|trehundrafyrtiotre
+[sample: 238, WER: 0%, LER: 10.2041%, slice WER: 35.7934%, slice LER: 17.0538%, progress: 95.4545%]
+|T|: sex ett otta sju sjuttiofyra femhundratjugotre 
+|P|: sex ett otta sju sjuttiofyra femhundratjugotre 
+|t|: sex||ett||otta||sju||sjuttiofyra||femhundratjugotre
+|p|: sex|ett|otta|sju|sjuttiofyra|femhundratjugotre
+[sample: 379, WER: 0%, LER: 9.80392%, slice WER: 23.3716%, slice LER: 11.5575%, progress: 66.6667%]
+|T|: nio tusen etthundraottiootta 
+|P|: nio tusen etthundraottiootta 
+|t|: nio|tusen|etthundraottiootta
+|p|: nio|tusen|etthundraottiootta
+[sample: 206, WER: 0%, LER: 0%, slice WER: 26.4822%, slice LER: 13.2673%, progress: 66.6667%]
+|T|: brukar 
+|P|: brukar 
+|t|: brukar
+|p|: brukar
+[sample: 346, WER: 0%, LER: 0%, slice WER: 23.2824%, slice LER: 11.5148%, progress: 68.6275%]
+|T|: det finns faktiskt eller fanns 
+|P|: i finns faktiskt eller fanns 
+|t|: det|finns|faktiskt|eller|fanns
+|p|: i|finns|faktiskt|eller|fanns
+[sample: 272, WER: 20%, LER: 10%, slice WER: 21.2766%, slice LER: 11.4589%, progress: 68.6275%]
+|T|: du knappar helt enkelt in dina kontonummer samt hur mycket var och en av rakningarna kostar so drar banken direkt fron ditt konto 
+|P|: det ar ar helt enkelt in dina kontonummer samt hur mycket var och en av rakningarna kostar so drar banken brett ovanligt konto 
+|t|: du|knappar|helt|enkelt|in|dina|kontonummer|samt|hur|mycket|var|och|en|av|rakningarna|kostar|so|drar|banken|direkt|fron|ditt|konto
+|p|: det|ar|ar|helt|enkelt|in|dina|kontonummer|samt|hur|mycket|var|och|en|av|rakningarna|kostar|so|drar|banken|brett|ovanligt|konto
+[sample: 296, WER: 26.087%, LER: 11.6279%, slice WER: 12.8514%, slice LER: 6.74967%, progress: 62.7451%]
+|T|: poangen ar att det moste finnas en tillvaxtformoga inbyggd i den svenska forsvarsmakten 
+|P|: poangen ar att de moste finnas en tillvaxtformoga inbyggd den svenska forsvarsmakten 
+|t|: poangen|ar|att|det|moste|finnas|en|tillvaxtformoga|inbyggd|i|den|svenska|forsvarsmakten
+|p|: poangen|ar|att|de|moste|finnas|en|tillvaxtformoga|inbyggd|den|svenska|forsvarsmakten
+[sample: 131, WER: 15.3846%, LER: 3.44828%, slice WER: 28.626%, slice LER: 14.2679%, progress: 66.6667%]
+|T|: fjarde 
+|P|: fjarde 
+|t|: fjarde
+|p|: fjarde
+[sample: 167, WER: 0%, LER: 0%, slice WER: 21.2014%, slice LER: 11.4185%, progress: 70.5882%]
+|T|: las det dar 
+|P|: loter ar 
+|t|: las|det|dar
+|p|: loter|ar
+[sample: 204, WER: 100%, LER: 54.5455%, slice WER: 29.434%, slice LER: 14.5421%, progress: 68.6275%]
+|T|: det ar monsuntid och oversvamningarna fortsatter 
+|P|: det ar ser tider o oversvamningarna fortsatter 
+|t|: det|ar|monsuntid|och|oversvamningarna|fortsatter
+|p|: det|ar|ser|tider|o|oversvamningarna|fortsatter
+[sample: 213, WER: 50%, LER: 20.8333%, slice WER: 12.8906%, slice LER: 6.67098%, progress: 60.7843%]
+|T|: han gor det for att visa att ar farligt for halsan att roka 
+|P|: han gor det for att visa att det fo det for halsan att roka 
+|t|: han|gor|det|for|att|visa|att|ar|farligt|for|halsan|att|roka
+|p|: han|gor|det|for|att|visa|att|det|fo|det|for|halsan|att|roka
+[sample: 149, WER: 23.0769%, LER: 13.5593%, slice WER: 35.2113%, slice LER: 16.9322%, progress: 97.7273%]
+|T|: han for inte skrika ot mig som monga man gor 
+|P|: han for inte skrika ot mig som monga man gor 
+|t|: han|for|inte|skrika|ot|mig|som|monga|man|gor
+|p|: han|for|inte|skrika|ot|mig|som|monga|man|gor
+[sample: 380, WER: 0%, LER: 0%, slice WER: 12.3552%, slice LER: 6.56051%, progress: 64.7059%]
+|T|: och det ar verkligen underbara och vackra brev punkt 
+|P|: och det ar verkligen underbara och vackra brev punkt 
+|t|: och|det|ar|verkligen|underbara|och|vackra|brev|punkt
+|p|: och|det|ar|verkligen|underbara|och|vackra|brev|punkt
+[sample: 89, WER: 0%, LER: 0%, slice WER: 20.5479%, slice LER: 11.0794%, progress: 72.549%]
+|T|: det innebar att det moste finnas tillrackligt monga anstallda och att personalen har bra utbildning och kompetens 
+|P|: innebar att att finnas till flit man anstallda att personalen av dragit av nogon kompetens 
+|t|: det|innebar|att|det|moste|finnas|tillrackligt|monga|anstallda|och|att|personalen|har|bra|utbildning|och|kompetens
+|p|: innebar|att|att|finnas|till|flit|man|anstallda|att|personalen|av|dragit|av|nogon|kompetens
+[sample: 107, WER: 64.7059%, LER: 32.7434%, slice WER: 24%, slice LER: 12.7433%, progress: 60.7843%]
+|T|: hur det an gor ar det ett statligt intresse att stodja filmen 
+|P|: i en gora de stader intresse stodja filmen 
+|t|: hur|det|an|gor|ar|det|ett|statligt|intresse|att|stodja|filmen
+|p|: i|en|gora|de|stader|intresse|stodja|filmen
+[sample: 10, WER: 75%, LER: 37.7049%, slice WER: 15.6716%, slice LER: 7.85047%, progress: 62.7451%]
+|T|: den forsta valomgongen som inte var utslagsgivande blev i stallet en stor framgong for de ryska separatisterna 
+|P|: den forsta var om den en som inte utslagsgivande blev i stallet en stor framgong for en ryska separatisterna 
+|t|: den|forsta|valomgongen|som|inte|var|utslagsgivande|blev|i|stallet|en|stor|framgong|for|de|ryska|separatisterna
+|p|: den|forsta|var|om|den|en|som|inte|utslagsgivande|blev|i|stallet|en|stor|framgong|for|en|ryska|separatisterna
+[sample: 118, WER: 35.2941%, LER: 10.9091%, slice WER: 24.0143%, slice LER: 11.4764%, progress: 70.5882%]
+|T|: etttusen fyrahundraottionio 
+|P|: ett tusen fyrahundraottionio 
+|t|: etttusen|fyrahundraottionio
+|p|: ett|tusen|fyrahundraottionio
+[sample: 123, WER: 100%, LER: 3.7037%, slice WER: 24.6032%, slice LER: 12.5926%, progress: 62.7451%]
+|T|: att dessa fall ar besvarliga och svorhanterliga 
+|P|: att dessa fall ar besvarliga och svorhanterliga 
+|t|: att|dessa|fall|ar|besvarliga|och|svorhanterliga
+|p|: att|dessa|fall|ar|besvarliga|och|svorhanterliga
+[sample: 153, WER: 0%, LER: 0%, slice WER: 12.0301%, slice LER: 6.36982%, progress: 66.6667%]
+|T|: teodor sten 
+|P|: tre do sten 
+|t|: teodor|sten
+|p|: tre|do|sten
+[sample: 166, WER: 100%, LER: 27.2727%, slice WER: 16.2963%, slice LER: 7.98267%, progress: 64.7059%]
+|T|: bargningsbil 
+|P|: bargningsbil 
+|t|: bargningsbil
+|p|: bargningsbil
+[sample: 260, WER: 0%, LER: 0%, slice WER: 24.5059%, slice LER: 12.5%, progress: 64.7059%]
+|T|: landerna 
+|P|: landerna 
+|t|: landerna
+|p|: landerna
+[sample: 169, WER: 0%, LER: 0%, slice WER: 16.2362%, slice LER: 7.94335%, progress: 66.6667%]
+|T|: lars-goran lindquist 
+|P|: jag gora in tvist 
+|t|: lars-goran|lindquist
+|p|: jag|gora|in|tvist
+[sample: 284, WER: 200%, LER: 45%, slice WER: 25.2669%, slice LER: 11.8586%, progress: 72.549%]
+|T|: ett tre fyra ett femtiotvo sexhundraottiofem 
+|P|: ett tre fyra ett femtiotvo sexhundraottiofem 
+|t|: ett||tre||fyra||ett||femtiotvo||sexhundraottiofem
+|p|: ett|tre|fyra|ett|femtiotvo|sexhundraottiofem
+[sample: 81, WER: 0%, LER: 10.2041%, slice WER: 11.7647%, slice LER: 6.48259%, progress: 68.6275%]
+|T|: och vad radslan betraffar so for ni sto ut med den precis som vi andra 
+|P|: och vad radslan betraffar so for i s k u nedan pris som vi andra 
+|t|: och|vad|radslan|betraffar|so|for|ni|sto|ut|med|den|precis|som|vi|andra
+|p|: och|vad|radslan|betraffar|so|for|i|s|k|u|nedan|pris|som|vi|andra
+[sample: 337, WER: 40%, LER: 14.2857%, slice WER: 21.4984%, slice LER: 11.2026%, progress: 74.5098%]
+|T|: vi har svort att lagga konkurrenskraftiga bud po nya spannande underhollningsprogram och svort att holla kvar de attraktiva format som vi vill fornya 
+|P|: vi har svort att lagga konkurrenskraftiga bud po nya spannande underhollningsprogram och svort att holla kvar de attraktiva format som vi vill fina 
+|t|: vi|har|svort|att|lagga|konkurrenskraftiga|bud|po|nya|spannande|underhollningsprogram|och|svort|att|holla|kvar|de|attraktiva|format|som|vi|vill|fornya
+|p|: vi|har|svort|att|lagga|konkurrenskraftiga|bud|po|nya|spannande|underhollningsprogram|och|svort|att|holla|kvar|de|attraktiva|format|som|vi|vill|fina
+[sample: 376, WER: 4.34783%, LER: 2.01342%, slice WER: 24.6377%, slice LER: 12.2596%, progress: 68.6275%]
+|T|: sett po long sikt brukar alltid aktier ge hogsta avkastningen och pensionssparande ar det mest longsiktiga sparandet 
+|P|: sett po long se brukar allt det var sig i hogsta lasningen pensionssparande hade mest longsiktiga sparandet 
+|t|: sett|po|long|sikt|brukar|alltid|aktier|ge|hogsta|avkastningen|och|pensionssparande|ar|det|mest|longsiktiga|sparandet
+|p|: sett|po|long|se|brukar|allt|det|var|sig|i|hogsta|lasningen|pensionssparande|hade|mest|longsiktiga|sparandet
+[sample: 145, WER: 58.8235%, LER: 22.4138%, slice WER: 31.2057%, slice LER: 15.0693%, progress: 70.5882%]
+|T|: nittionio tusen trehundrasjuttiosju 
+|P|: i sin ena tusen trehundrasjuttiosju 
+|t|: nittionio|tusen|trehundrasjuttiosju
+|p|: i|sin|ena|tusen|trehundrasjuttiosju
+[sample: 24, WER: 100%, LER: 22.8571%, slice WER: 17.1533%, slice LER: 8.25799%, progress: 68.6275%]
+|T|: tre fyra sex sju tio trehundraottiotvo 
+|P|: tre fyra sex sju tio trehundraottiotvo 
+|t|: tre||fyra||sex||sju||tio||trehundraottiotvo
+|p|: tre|fyra|sex|sju|tio|trehundraottiotvo
+[sample: 246, WER: 0%, LER: 11.6279%, slice WER: 24.1135%, slice LER: 12.2437%, progress: 70.5882%]
+|T|: fem tre tre sex sjuttiootta trehundrasjuttio 
+|P|: fem tre tre sex sjuttiootta trehundrasjuttio 
+|t|: fem||tre||tre||sex||sjuttiootta||trehundrasjuttio
+|p|: fem|tre|tre|sex|sjuttiootta|trehundrasjuttio
+[sample: 28, WER: 0%, LER: 10.2041%, slice WER: 30.5556%, slice LER: 14.9354%, progress: 72.549%]
+|T|: de djupa fororna i kinderna och pannan forde tanken till hoppressade kontinenter och havsbottnar 
+|P|: vi utan fororna i kinderna och pannan forde tanken till hoppressade kontinenter och havsbottnar 
+|t|: de|djupa|fororna|i|kinderna|och|pannan|forde|tanken|till|hoppressade|kontinenter|och|havsbottnar
+|p|: vi|utan|fororna|i|kinderna|och|pannan|forde|tanken|till|hoppressade|kontinenter|och|havsbottnar
+[sample: 386, WER: 14.2857%, LER: 6.25%, slice WER: 34.2282%, slice LER: 16.3596%, progress: 100%]
+|T|: mattias nylen 
+|P|: mattias nylen 
+|t|: mattias|nylen
+|p|: mattias|nylen
+[sample: 315, WER: 0%, LER: 0%, slice WER: 17.029%, slice LER: 8.19378%, progress: 70.5882%]
+|T|: hon kan tyska och engelska och laser spanska po kvallarna 
+|P|: hon en i spanar skara sin spanska po kvallarna 
+|t|: hon|kan|tyska|och|engelska|och|laser|spanska|po|kvallarna
+|p|: hon|en|i|spanar|skara|sin|spanska|po|kvallarna
+[sample: 192, WER: 60%, LER: 38.5965%, slice WER: 22.7129%, slice LER: 12.0341%, progress: 76.4706%]
+|T|: mannen betalade alltid kontant gav generost med dricks och fick snart rykte om sig att vara stadens basta kunder 
+|P|: mannen betalade alltid kontant av alla rost med dricks och fick snart rykte om att vara stadens basta kunder 
+|t|: mannen|betalade|alltid|kontant|gav|generost|med|dricks|och|fick|snart|rykte|om|sig|att|vara|stadens|basta|kunder
+|p|: mannen|betalade|alltid|kontant|av|alla|rost|med|dricks|och|fick|snart|rykte|om|att|vara|stadens|basta|kunder
+[sample: 67, WER: 21.0526%, LER: 8.92857%, slice WER: 25%, slice LER: 11.6827%, progress: 74.5098%]
+|T|: pengarna fron det sociala drygade hon ut med lonen fron ett deltidsarbete po en fabrik som tillverkade rakapparater 
+|P|: pengarna fron det sociala tyra ut med lonen fo ett deltidsarbete en fabrik som tillverkade rakapparater 
+|t|: pengarna|fron|det|sociala|drygade|hon|ut|med|lonen|fron|ett|deltidsarbete|po|en|fabrik|som|tillverkade|rakapparater
+|p|: pengarna|fron|det|sociala|tyra|ut|med|lonen|fo|ett|deltidsarbete|en|fabrik|som|tillverkade|rakapparater
+[sample: 125, WER: 22.2222%, LER: 12.1739%, slice WER: 24.3542%, slice LER: 12.4785%, progress: 66.6667%]
+|T|: hon oterkommer gong po gong till manniskans mojlighet att alltid valja vag 
+|P|: hon oterkommer gong po gong till manniskans mojlighet att alltid valja vag 
+|t|: hon|oterkommer|gong|po|gong|till|manniskans|mojlighet|att|alltid|valja|vag
+|p|: hon|oterkommer|gong|po|gong|till|manniskans|mojlighet|att|alltid|valja|vag
+[sample: 150, WER: 0%, LER: 0%, slice WER: 16.3194%, slice LER: 7.84651%, progress: 72.549%]
+|T|: dar den drar fram fryser marken po ett ogonblick och dor 
+|P|: dar den drar fram fryser marken po ogonblick och dor 
+|t|: dar|den|drar|fram|fryser|marken|po|ett|ogonblick|och|dor
+|p|: dar|den|drar|fram|fryser|marken|po|ogonblick|och|dor
+[sample: 72, WER: 9.09091%, LER: 7.14286%, slice WER: 22.2561%, slice LER: 11.8925%, progress: 78.4314%]
+|T|: partiet ar litet och harmoniskt nog att snabbt kunna anpassa sig till dagstempot och vacka uppmarksamhet for den egna saken 
+|P|: partiet ar litet po hans oga ot vore av a s sikt i dagstempot och vacka upp med som vet fron egna saken 
+|t|: partiet|ar|litet|och|harmoniskt|nog|att|snabbt|kunna|anpassa|sig|till|dagstempot|och|vacka|uppmarksamhet|for|den|egna|saken
+|p|: partiet|ar|litet|po|hans|oga|ot|vore|av|a|s|sikt|i|dagstempot|och|vacka|upp|med|som|vet|fron|egna|saken
+[sample: 38, WER: 75%, LER: 34.9593%, slice WER: 16.0959%, slice LER: 8.44047%, progress: 70.5882%]
+|T|: november 
+|P|: nog vanner 
+|t|: november
+|p|: nog|vanner
+[sample: 203, WER: 200%, LER: 62.5%, slice WER: 22.7964%, slice LER: 12.1009%, progress: 80.3922%]
+|T|: be vederborande lamna dig i fred so att du hittar din egen vilja till att sluta med tobak 
+|P|: be vederborande lamnade i fred so att du hittar din egen vilja till att sluta med tobak 
+|t|: be|vederborande|lamna|dig|i|fred|so|att|du|hittar|din|egen|vilja|till|att|sluta|med|tobak
+|p|: be|vederborande|lamnade|i|fred|so|att|du|hittar|din|egen|vilja|till|att|sluta|med|tobak
+[sample: 243, WER: 11.1111%, LER: 3.37079%, slice WER: 23.3333%, slice LER: 11.804%, progress: 72.549%]
+|T|: hon anser ockso att tullhusets lage alldeles invid gasthamnen lampar sig alldeles utmarkt for andamolet 
+|P|: hon anser ockso u slog av de sin gasthamnen lampar holjes utmarkt for andamolet 
+|t|: hon|anser|ockso|att|tullhusets|lage|alldeles|invid|gasthamnen|lampar|sig|alldeles|utmarkt|for|andamolet
+|p|: hon|anser|ockso|u|slog|av|de|sin|gasthamnen|lampar|holjes|utmarkt|for|andamolet
+[sample: 12, WER: 46.6667%, LER: 31.068%, slice WER: 31.3531%, slice LER: 15.8174%, progress: 74.5098%]
+|T|: det spelar ingen roll hur mycket som bjuds 
+|P|: det ska anger hur mycket som bjuds 
+|t|: det|spelar|ingen|roll|hur|mycket|som|bjuds
+|p|: det|ska|anger|hur|mycket|som|bjuds
+[sample: 194, WER: 37.5%, LER: 23.8095%, slice WER: 16.6667%, slice LER: 8.79301%, progress: 72.549%]
+|T|: v i b o r g 
+|P|: v i b o r t 
+|t|: v|i|b|o|r|g
+|p|: v|i|b|o|r|t
+[sample: 252, WER: 16.6667%, LER: 9.09091%, slice WER: 16.3265%, slice LER: 7.8543%, progress: 74.5098%]
+|T|: sjuttiotre tusen trehundratrettio 
+|P|: sjuttiotre tusen trehundratrettio 
+|t|: sjuttiotre|tusen|trehundratrettio
+|p|: sjuttiotre|tusen|trehundratrettio
+[sample: 268, WER: 0%, LER: 0%, slice WER: 23.1023%, slice LER: 11.591%, progress: 74.5098%]
+|T|: de boda vaskorna inneholl mycket lite eller inga pengar alls 
+|P|: de boda vaskorna inneholl mycket lite eller inga pengar alls 
+|t|: de|boda|vaskorna|inneholl|mycket|lite|eller|inga|pengar|alls
+|p|: de|boda|vaskorna|inneholl|mycket|lite|eller|inga|pengar|alls
+[sample: 49, WER: 0%, LER: 0%, slice WER: 23.4875%, slice LER: 12.0642%, progress: 68.6275%]
+|T|: enskede 
+|P|: enskede 
+|t|: enskede
+|p|: enskede
+[sample: 92, WER: 0%, LER: 0%, slice WER: 23.0263%, slice LER: 11.5468%, progress: 76.4706%]
+|T|: poarp 
+|P|: par 
+|t|: poarp
+|p|: par
+[sample: 228, WER: 100%, LER: 40%, slice WER: 23.7589%, slice LER: 12.1413%, progress: 70.5882%]
+|T|: han visste att det var nogonting som var bra med en eld 
+|P|: han visste att aven om ring som var bra i en eld 
+|t|: han|visste|att|det|var|nogonting|som|var|bra|med|en|eld
+|p|: han|visste|att|aven|om|ring|som|var|bra|i|en|eld
+[sample: 77, WER: 33.3333%, LER: 25.4545%, slice WER: 23.1672%, slice LER: 12.4687%, progress: 82.3529%]
+|T|: en forutsattning for att en ensamstoende mor ska kunna arbeta ar att hon har ordnad barntillsyn 
+|P|: en forutsattning for att en ensamstoende mor fororna arbete ar och hon har ordnad barntillsyn 
+|t|: en|forutsattning|for|att|en|ensamstoende|mor|ska|kunna|arbeta|ar|att|hon|har|ordnad|barntillsyn
+|p|: en|forutsattning|for|att|en|ensamstoende|mor|fororna|arbete|ar|och|hon|har|ordnad|barntillsyn
+[sample: 210, WER: 25%, LER: 11.5789%, slice WER: 25%, slice LER: 11.6777%, progress: 76.4706%]
+|T|: svarar 
+|P|: sara 
+|t|: svarar
+|p|: sara
+[sample: 316, WER: 100%, LER: 33.3333%, slice WER: 25.2366%, slice LER: 11.7438%, progress: 78.4314%]
+|T|: anhoriga till de overlevande hade po sondagsmorgonen i de flesta fall fott besked 
+|P|: anhoriga till de overlevande hade po sanda magen i de flesta fall fott besked 
+|t|: anhoriga|till|de|overlevande|hade|po|sondagsmorgonen|i|de|flesta|fall|fott|besked
+|p|: anhoriga|till|de|overlevande|hade|po|sanda|magen|i|de|flesta|fall|fott|besked
+[sample: 216, WER: 15.3846%, LER: 8.64198%, slice WER: 30.6962%, slice LER: 15.5216%, progress: 76.4706%]
+|T|: den lille krabaten var visserligen ful men en hejare po att massera horbotten 
+|P|: den lille krabaten var visserligen ful men en hejare po att massera horbotten 
+|t|: den|lille|krabaten|var|visserligen|ful|men|en|hejare|po|att|massera|horbotten
+|p|: den|lille|krabaten|var|visserligen|ful|men|en|hejare|po|att|massera|horbotten
+[sample: 357, WER: 0%, LER: 0%, slice WER: 15.6352%, slice LER: 7.52454%, progress: 76.4706%]
+|T|: det var monga kvinnors situation i dag 
+|P|: det om man ar kvinnors situation i dag 
+|t|: det|var|monga|kvinnors|situation|i|dag
+|p|: det|om|man|ar|kvinnors|situation|i|dag
+[sample: 187, WER: 42.8571%, LER: 15.7895%, slice WER: 25.6173%, slice LER: 11.8204%, progress: 80.3922%]
+|T|: dar fick han en hord small i huvudet so att han tillfalligt tuppade av 
+|P|: dar fick han en hord small i huvudet so att han tillfalligt tuppade av 
+|t|: dar|fick|han|en|hord|small|i|huvudet|so|att|han|tillfalligt|tuppade|av
+|p|: dar|fick|han|en|hord|small|i|huvudet|so|att|han|tillfalligt|tuppade|av
+[sample: 128, WER: 0%, LER: 0%, slice WER: 22.6351%, slice LER: 11.6897%, progress: 72.549%]
+|T|: r e d a k t i o n e n 
+|P|: r e d a k t i o n e n 
+|t|: r|e|d|a|k|t|i|o|n|e|n
+|p|: r|e|d|a|k|t|i|o|n|e|n
+[sample: 310, WER: 0%, LER: 0%, slice WER: 16.0772%, slice LER: 8.6933%, progress: 74.5098%]
+|T|: du har lovat henne att du ska sy en kjol och skjorta av tyget du kopte for fyra or sedan 
+|P|: du har lovat henne att du ska sy en kjol och skjorta av tyget du kopte for fyra or sedan 
+|t|: du|har|lovat|henne|att|du|ska|sy|en|kjol|och|skjorta|av|tyget|du|kopte|for|fyra|or|sedan
+|p|: du|har|lovat|henne|att|du|ska|sy|en|kjol|och|skjorta|av|tyget|du|kopte|for|fyra|or|sedan
+[sample: 294, WER: 0%, LER: 0%, slice WER: 21.8837%, slice LER: 11.9424%, progress: 84.3137%]
+|T|: bilden av att vi lever i den mest jamstallda av nationer kan vara en anledning till att relationer gor i kras 
+|P|: bilderna att vi vid den mest jamstallda eller tona kan vara en av en eller relationer gor i kras 
+|t|: bilden|av|att|vi|lever|i|den|mest|jamstallda|av|nationer|kan|vara|en|anledning|till|att|relationer|gor|i|kras
+|p|: bilderna|att|vi|vid|den|mest|jamstallda|eller|tona|kan|vara|en|av|en|eller|relationer|gor|i|kras
+[sample: 2, WER: 42.8571%, LER: 27.5229%, slice WER: 24.3077%, slice LER: 12.4422%, progress: 78.4314%]
+|T|: u t s p e l a s 
+|P|: u t s p e l a s 
+|t|: u|t|s|p|e|l|a|s
+|p|: u|t|s|p|e|l|a|s
+[sample: 73, WER: 0%, LER: 0%, slice WER: 25%, slice LER: 11.7327%, progress: 82.3529%]
+|T|: nittiotvo tusen sexhundrafjorton 
+|P|: nittiotvo tusen sexhundrafjorton 
+|t|: nittiotvo|tusen|sexhundrafjorton
+|p|: nittiotvo|tusen|sexhundrafjorton
+[sample: 16, WER: 0%, LER: 0%, slice WER: 15.9236%, slice LER: 8.54565%, progress: 76.4706%]
+|T|: allt som tilldragit sig po daghemmet skulle berattas 
+|P|: allt som tilldragit sig po dagar med skulle berattas 
+|t|: allt|som|tilldragit|sig|po|daghemmet|skulle|berattas
+|p|: allt|som|tilldragit|sig|po|dagar|med|skulle|berattas
+[sample: 113, WER: 25%, LER: 7.69231%, slice WER: 30.5556%, slice LER: 15.3198%, progress: 78.4314%]
+|T|: ekenassjon 
+|P|: parternas fron 
+|t|: ekenassjon
+|p|: parternas|fron
+[sample: 31, WER: 200%, LER: 80%, slice WER: 25.5255%, slice LER: 12.069%, progress: 84.3137%]
+|T|: rokare har ockso okad sjuklighet i flera icke livshotande tillstond 
+|P|: rokare har ockso okad sjuklighet i flera icke livshotande tillstond 
+|t|: rokare|har|ockso|okad|sjuklighet|i|flera|icke|livshotande|tillstond
+|p|: rokare|har|ockso|okad|sjuklighet|i|flera|icke|livshotande|tillstond
+[sample: 364, WER: 0%, LER: 0%, slice WER: 15.142%, slice LER: 7.25934%, progress: 78.4314%]
+|T|: monga av de undersokta tillverkarna och butikerna hade lotit bli att folja rekommendationerna 
+|P|: monga av de undersokta tillverkarna och butikerna hade lotit bli att folja rekommendationerna 
+|t|: monga|av|de|undersokta|tillverkarna|och|butikerna|hade|lotit|bli|att|folja|rekommendationerna
+|p|: monga|av|de|undersokta|tillverkarna|och|butikerna|hade|lotit|bli|att|folja|rekommendationerna
+[sample: 383, WER: 0%, LER: 0%, slice WER: 21.6828%, slice LER: 11.1392%, progress: 74.5098%]
+|T|: det ar sjalvklart for de flesta att arbeta utanfor hemmet 
+|P|: det sjalvklart for det fastnat arbeta utanfor hemmet 
+|t|: det|ar|sjalvklart|for|de|flesta|att|arbeta|utanfor|hemmet
+|p|: det|sjalvklart|for|det|fastnat|arbeta|utanfor|hemmet
+[sample: 44, WER: 40%, LER: 15.7895%, slice WER: 30.8383%, slice LER: 15.3327%, progress: 80.3922%]
+|T|: ort 
+|P|: ot 
+|t|: ort
+|p|: ot
+[sample: 233, WER: 100%, LER: 33.3333%, slice WER: 21.9355%, slice LER: 11.1729%, progress: 76.4706%]
+|T|: dodsorsaken benamns som syraforgiftning till foljd av de allt for stora kvantiteterna foder 
+|P|: det orsak under dem som syraforgiftning i foll ar att forsta over kvantiteterna foder 
+|t|: dodsorsaken|benamns|som|syraforgiftning|till|foljd|av|de|allt|for|stora|kvantiteterna|foder
+|p|: det|orsak|under|dem|som|syraforgiftning|i|foll|ar|att|forsta|over|kvantiteterna|foder
+[sample: 188, WER: 84.6154%, LER: 31.8681%, slice WER: 24.0642%, slice LER: 12.7757%, progress: 86.2745%]
+|T|: denna makt skapas av att vi mots och agerar i det offentliga rummet 
+|P|: denna makt skapas att vi barare do fem ganget 
+|t|: denna|makt|skapas|av|att|vi|mots|och|agerar|i|det|offentliga|rummet
+|p|: denna|makt|skapas|att|vi|barare|do|fem|ganget
+[sample: 312, WER: 61.5385%, LER: 43.2836%, slice WER: 25.7396%, slice LER: 13.4692%, progress: 80.3922%]
+|T|: femtioett tusen sexhundrafyrtiosju 
+|P|: femtioett tusen sexhundrafyrtiosju 
+|t|: femtioett|tusen|sexhundrafyrtiosju
+|p|: femtioett|tusen|sexhundrafyrtiosju
+[sample: 336, WER: 0%, LER: 0%, slice WER: 21.7252%, slice LER: 10.9841%, progress: 78.4314%]
+|T|: felfri musik ar hur trokigt som helst 
+|P|: felfri musik ar hur trokigt som helst 
+|t|: felfri|musik|ar|hur|trokigt|som|helst
+|p|: felfri|musik|ar|hur|trokigt|som|helst
+[sample: 76, WER: 0%, LER: 0%, slice WER: 14.8148%, slice LER: 7.12074%, progress: 80.3922%]
+|T|: tjugootta tusen sjuhundratjugo 
+|P|: tjugootta tusen sjuhundratjugo 
+|t|: tjugootta|tusen|sjuhundratjugo
+|p|: tjugootta|tusen|sjuhundratjugo
+[sample: 104, WER: 0%, LER: 0%, slice WER: 21.519%, slice LER: 10.8227%, progress: 80.3922%]
+|T|: litet trevande har ockso diskussionen om det kloka och nodvandiga i det utdragna kronforsvaret startat 
+|P|: litet trevande har ockso diskussionen om det kloka oren i det utdragna kronforsvaret startat 
+|t|: litet|trevande|har|ockso|diskussionen|om|det|kloka|och|nodvandiga|i|det|utdragna|kronforsvaret|startat
+|p|: litet|trevande|har|ockso|diskussionen|om|det|kloka|oren|i|det|utdragna|kronforsvaret|startat
+[sample: 328, WER: 13.3333%, LER: 11.7647%, slice WER: 25%, slice LER: 12.0544%, progress: 86.2745%]
+|T|: statsministerns oklara besked om nar de utlovade forandringarna ska genomforas skapar osakerhet hos statsroden 
+|P|: stan vistats oklara besked om nar de ut var i framlingar for genom klara skapar osakerhet so sodan 
+|t|: statsministerns|oklara|besked|om|nar|de|utlovade|forandringarna|ska|genomforas|skapar|osakerhet|hos|statsroden
+|p|: stan|vistats|oklara|besked|om|nar|de|ut|var|i|framlingar|for|genom|klara|skapar|osakerhet|so|sodan
+[sample: 3, WER: 78.5714%, LER: 31.8182%, slice WER: 18.5976%, slice LER: 9.82949%, progress: 78.4314%]
+|T|: sedan hustruns dod hade han nastan fordubblat sina inkomster 
+|P|: sedan hustruns dod hade han nastan fordubblat sina inkomster 
+|t|: sedan|hustruns|dod|hade|han|nastan|fordubblat|sina|inkomster
+|p|: sedan|hustruns|dod|hade|han|nastan|fordubblat|sina|inkomster
+[sample: 152, WER: 0%, LER: 0%, slice WER: 23.4987%, slice LER: 12.4329%, progress: 88.2353%]
+|T|: att vinna ekonomipriset kraver tolamod och longt liv 
+|P|: att vinna ekonomipriset kraver tona hon och long liv 
+|t|: att|vinna|ekonomipriset|kraver|tolamod|och|longt|liv
+|p|: att|vinna|ekonomipriset|kraver|tona|hon|och|long|liv
+[sample: 86, WER: 37.5%, LER: 9.61538%, slice WER: 26.0116%, slice LER: 13.3721%, progress: 82.3529%]
+|T|: mamma andades ut skrattade och lovade att komma tillbaka och betala resten 
+|P|: mamma andades ut skrattade och lovade kom att tillbaka av betala resten 
+|t|: mamma|andades|ut|skrattade|och|lovade|att|komma|tillbaka|och|betala|resten
+|p|: mamma|andades|ut|skrattade|och|lovade|kom|att|tillbaka|av|betala|resten
+[sample: 121, WER: 25%, LER: 13.5135%, slice WER: 30.6358%, slice LER: 15.27%, progress: 82.3529%]
+|T|: grona 
+|P|: grona 
+|t|: grona
+|p|: grona
+[sample: 170, WER: 0%, LER: 0%, slice WER: 23.4375%, slice LER: 12.4052%, progress: 90.1961%]
+|T|: aven skolpolitikens inriktning och mol skiljer sig ot 
+|P|: aven skolpolitikens en viktig om mor ser or ot 
+|t|: aven|skolpolitikens|inriktning|och|mol|skiljer|sig|ot
+|p|: aven|skolpolitikens|en|viktig|om|mor|ser|or|ot
+[sample: 313, WER: 75%, LER: 28.3019%, slice WER: 16.2651%, slice LER: 7.68458%, progress: 82.3529%]
+|T|: iden med ett kvinnoparti ar so osvensk 
+|P|: i den kvinna partiet so osvensk 
+|t|: iden|med|ett|kvinnoparti|ar|so|osvensk
+|p|: i|den|kvinna|partiet|so|osvensk
+[sample: 334, WER: 71.4286%, LER: 34.2105%, slice WER: 22.6006%, slice LER: 11.25%, progress: 82.3529%]
+|T|: helge blomkvist 
+|P|: helge blomkvist 
+|t|: helge|blomkvist
+|p|: helge|blomkvist
+[sample: 226, WER: 0%, LER: 0%, slice WER: 25.8621%, slice LER: 13.2756%, progress: 84.3137%]
+|T|: enar olsson 
+|P|: enar olsson 
+|t|: enar|olsson
+|p|: enar|olsson
+[sample: 341, WER: 0%, LER: 0%, slice WER: 22.4615%, slice LER: 11.1908%, progress: 84.3137%]
+|T|: p e r m a n e n t 
+|P|: p e r n a n e n t 
+|t|: p|e|r|m|a|n|e|n|t
+|p|: p|e|r|n|a|n|e|n|t
+[sample: 214, WER: 11.1111%, LER: 5.88235%, slice WER: 18.3976%, slice LER: 9.79612%, progress: 80.3922%]
+|T|: oje 
+|P|: oje 
+|t|: oje
+|p|: oje
+[sample: 344, WER: 0%, LER: 0%, slice WER: 18.3432%, slice LER: 9.78153%, progress: 82.3529%]
+|T|: f a t t a t 
+|P|: a t a te 
+|t|: f|a|t|t|a|t
+|p|: a|t|a|te
+[sample: 223, WER: 50%, LER: 45.4545%, slice WER: 23.8462%, slice LER: 12.5666%, progress: 92.1569%]
+|T|: fem fyra fyra otta ottiosju etthundraottiotvo 
+|P|: fem fyra fyra otta ottiosju etthundraottiotvo 
+|t|: fem||fyra||fyra||otta||ottiosju||etthundraottiotvo
+|p|: fem|fyra|fyra|otta|ottiosju|etthundraottiotvo
+[sample: 384, WER: 0%, LER: 10%, slice WER: 23.4848%, slice LER: 12.5109%, progress: 94.1176%]
+|T|: sjoisen har som det heter po bohuskusten kastat sig i innerfjordarna 
+|P|: sjoisen har som det heter po bohuskusten kastat sig i innerfjordarna 
+|t|: sjoisen|har|som|det|heter|po|bohuskusten|kastat|sig|i|innerfjordarna
+|p|: sjoisen|har|som|det|heter|po|bohuskusten|kastat|sig|i|innerfjordarna
+[sample: 330, WER: 0%, LER: 0%, slice WER: 29.6919%, slice LER: 14.8014%, progress: 84.3137%]
+|T|: hon sog in till den verklige mannen inom honom 
+|P|: om so en till den verklige mannen inom honom 
+|t|: hon|sog|in|till|den|verklige|mannen|inom|honom
+|p|: om|so|en|till|den|verklige|mannen|inom|honom
+[sample: 302, WER: 33.3333%, LER: 8.69565%, slice WER: 22.7545%, slice LER: 11.1371%, progress: 86.2745%]
+|T|: tretton tusen fyrahundrasextiosju 
+|P|: tretton tusen fyrahundrasextiosju 
+|t|: tretton|tusen|fyrahundrasextiosju
+|p|: tretton|tusen|fyrahundrasextiosju
+[sample: 126, WER: 0%, LER: 0%, slice WER: 22.5519%, slice LER: 10.9677%, progress: 88.2353%]
+|T|: problemet ar att tillsatserna flera gonger blir ungefar desamma 
+|P|: problemet ar visat nar flera gonger blivit for det samma 
+|t|: problemet|ar|att|tillsatserna|flera|gonger|blir|ungefar|desamma
+|p|: problemet|ar|visat|nar|flera|gonger|blivit|for|det|samma
+[sample: 18, WER: 66.6667%, LER: 31.746%, slice WER: 19.5965%, slice LER: 10.4478%, progress: 84.3137%]
+|T|: allt foraktligt ar kvinnligt och individuellt allt gott manligt och kollektivt 
+|P|: allt foraktligt ar kvinnligt och individuellt allt gott manligt och hollit tid 
+|t|: allt|foraktligt|ar|kvinnligt|och|individuellt|allt|gott|manligt|och|kollektivt
+|p|: allt|foraktligt|ar|kvinnligt|och|individuellt|allt|gott|manligt|och|hollit|tid
+[sample: 394, WER: 18.1818%, LER: 7.69231%, slice WER: 25.6267%, slice LER: 13.0737%, progress: 86.2745%]
+|T|: han som senare skulle doktorera i medicin fick knallroda kinder och stamningar nar den strange lektorn senare forhorde honom po franska verb 
+|P|: an som senare skulle doktorera i medicin fick knallroda kinder och stamningar nar den strange lektorn senare forhorde honom po franska var 
+|t|: han|som|senare|skulle|doktorera|i|medicin|fick|knallroda|kinder|och|stamningar|nar|den|strange|lektorn|senare|forhorde|honom|po|franska|verb
+|p|: an|som|senare|skulle|doktorera|i|medicin|fick|knallroda|kinder|och|stamningar|nar|den|strange|lektorn|senare|forhorde|honom|po|franska|var
+[sample: 295, WER: 9.09091%, LER: 2.14286%, slice WER: 24.0541%, slice LER: 11.4437%, progress: 88.2353%]
+|T|: de akuta handskadorna okar framfor allt sodana som kraver mikrokirurgiska insatser dar operationstiderna ofta ar mycket longa 
+|P|: de akuta handskadorna okar framfor allt sodana som kraver teresia ska insatser dar operationstiderna och far mycket longa 
+|t|: de|akuta|handskadorna|okar|framfor|allt|sodana|som|kraver|mikrokirurgiska|insatser|dar|operationstiderna|ofta|ar|mycket|longa
+|p|: de|akuta|handskadorna|okar|framfor|allt|sodana|som|kraver|teresia|ska|insatser|dar|operationstiderna|och|far|mycket|longa
+[sample: 247, WER: 23.5294%, LER: 11.2%, slice WER: 16.6189%, slice LER: 7.89225%, progress: 84.3137%]
+|T|: till detta ar alla skyldiga genom att ha befattat sig med diverse hjalpmedel havdar oklagaren 
+|P|: till detta ar alla skyldiga genom att ha befattat sig med det var so hjalpmedel havdar oklagaren 
+|t|: till|detta|ar|alla|skyldiga|genom|att|ha|befattat|sig|med|diverse|hjalpmedel|havdar|oklagaren
+|p|: till|detta|ar|alla|skyldiga|genom|att|ha|befattat|sig|med|det|var|so|hjalpmedel|havdar|oklagaren
+[sample: 240, WER: 20%, LER: 6.45161%, slice WER: 29.3011%, slice LER: 14.4651%, progress: 86.2745%]
+|T|: mats hagman 
+|P|: mats hagman 
+|t|: mats|hagman
+|p|: mats|hagman
+[sample: 225, WER: 0%, LER: 0%, slice WER: 29.1444%, slice LER: 14.3966%, progress: 88.2353%]
+|T|: vasa 
+|P|: vasa 
+|t|: vasa
+|p|: vasa
+[sample: 366, WER: 0%, LER: 0%, slice WER: 29.0667%, slice LER: 14.3718%, progress: 90.1961%]
+|T|: du varnar genom att placera ut varningstrianglar som moste finnas i bilen 
+|P|: du varnar genom att placera varningstrianglar som moste finnas bilen 
+|t|: du|varnar|genom|att|placera|ut|varningstrianglar|som|moste|finnas|i|bilen
+|p|: du|varnar|genom|att|placera|varningstrianglar|som|moste|finnas|bilen
+[sample: 327, WER: 16.6667%, LER: 6.84932%, slice WER: 25.3369%, slice LER: 12.87%, progress: 88.2353%]
+|T|: modet hos de egna har formodligen fallit genom de besvikelser som regerande ofronkomligen medfor 
+|P|: modet hos de egna har formodligen fallit genom de besvikelser som regerande ofronkomligen medfor 
+|t|: modet|hos|de|egna|har|formodligen|fallit|genom|de|besvikelser|som|regerande|ofronkomligen|medfor
+|p|: modet|hos|de|egna|har|formodligen|fallit|genom|de|besvikelser|som|regerande|ofronkomligen|medfor
+[sample: 271, WER: 0%, LER: 0%, slice WER: 21.6524%, slice LER: 10.5031%, progress: 90.1961%]
+|T|: fyra sex fyra otta femtiotvo fyrahundrasjuttionio 
+|P|: fyra sex fyra otta femtiotvo fyrahundrasjuttionio 
+|t|: fyra||sex||fyra||otta||femtiotvo||fyrahundrasjuttionio
+|p|: fyra|sex|fyra|otta|femtiotvo|fyrahundrasjuttionio
+[sample: 43, WER: 0%, LER: 9.25926%, slice WER: 28.6089%, slice LER: 14.2557%, progress: 92.1569%]
+|T|: reformen bidrar till storre jamstalldhet satter barnen i centrum och underlattar for framfor allt kvinnor att i storre utstrackning go ut i forvarvsarbete 
+|P|: reformen bidrar till storre jamstalldhet satter barnen i centrum och underlattar for framfor allt kvinnor att i storre utstrackning vor ut i forvarvsarbete 
+|t|: reformen|bidrar|till|storre|jamstalldhet|satter|barnen|i|centrum|och|underlattar|for|framfor|allt|kvinnor|att|i|storre|utstrackning|go|ut|i|forvarvsarbete
+|p|: reformen|bidrar|till|storre|jamstalldhet|satter|barnen|i|centrum|och|underlattar|for|framfor|allt|kvinnor|att|i|storre|utstrackning|vor|ut|i|forvarvsarbete
+[sample: 356, WER: 4.34783%, LER: 1.2987%, slice WER: 22.4344%, slice LER: 11.8078%, progress: 96.0784%]
+|T|: q 
+|P|: tur 
+|t|: q
+|p|: tur
+[sample: 173, WER: 100%, LER: 300%, slice WER: 22.619%, slice LER: 11.9251%, progress: 98.0392%]
+|T|: g u l l b e r g 
+|P|: g u l l b e r g 
+|t|: g|u|l|l|b|e|r|g
+|p|: g|u|l|l|b|e|r|g
+[sample: 273, WER: 0%, LER: 0%, slice WER: 24.8021%, slice LER: 12.784%, progress: 90.1961%]
+|T|: om vi tanker oss att den subventioneringen i stallet fordes over till sankt bokmoms skulle det sakert racka till en potentare bokkultur 
+|P|: om vi tanker oss att den som var kommer ingen i stallet fordes over till sen bokmoms skulle sakert racka till en potentare bokkultur 
+|t|: om|vi|tanker|oss|att|den|subventioneringen|i|stallet|fordes|over|till|sankt|bokmoms|skulle|det|sakert|racka|till|en|potentare|bokkultur
+|p|: om|vi|tanker|oss|att|den|som|var|kommer|ingen|i|stallet|fordes|over|till|sen|bokmoms|skulle|sakert|racka|till|en|potentare|bokkultur
+[sample: 83, WER: 27.2727%, LER: 12.5926%, slice WER: 20.0542%, slice LER: 10.5787%, progress: 86.2745%]
+|T|: svaga 
+|P|: svaga 
+|t|: svaga
+|p|: svaga
+[sample: 58, WER: 0%, LER: 0%, slice WER: 24.7368%, slice LER: 12.7556%, progress: 92.1569%]
+|T|: lyssnar 
+|P|: lyssnar 
+|t|: lyssnar
+|p|: lyssnar
+[sample: 138, WER: 0%, LER: 0%, slice WER: 24.6719%, slice LER: 12.716%, progress: 94.1176%]
+|T|: sextiotvo tusen sexhundratjugotvo 
+|P|: sextiotvo tusen sexhundratjugotvo 
+|t|: sextiotvo|tusen|sexhundratjugotvo
+|p|: sextiotvo|tusen|sexhundratjugotvo
+[sample: 278, WER: 0%, LER: 0%, slice WER: 22.4586%, slice LER: 11.7671%, progress: 100%]
+|T|: det fanns de som trodde att som ung och svart fanns det ingen framtid for mig som skodespelare 
+|P|: de fasta som trodde att som ung svart fanns det ingen framtid for mig som skodespelare 
+|t|: det|fanns|de|som|trodde|att|som|ung|och|svart|fanns|det|ingen|framtid|for|mig|som|skodespelare
+|p|: de|fasta|som|trodde|att|som|ung|svart|fanns|det|ingen|framtid|for|mig|som|skodespelare
+[sample: 84, WER: 22.2222%, LER: 10.6383%, slice WER: 16.8937%, slice LER: 8.00905%, progress: 86.2745%]
+|T|: han har berattat hur han som en av de sista lyckas klattra upp och hoppa ut genom fonstret i det lilla rummet innanfor entren 
+|P|: han har berattat hur han som en av de sista lyckades klattra upp po hoppa ut genom fonstret i det lilla rummet innanfor entren 
+|t|: han|har|berattat|hur|han|som|en|av|de|sista|lyckas|klattra|upp|och|hoppa|ut|genom|fonstret|i|det|lilla|rummet|innanfor|entren
+|p|: han|har|berattat|hur|han|som|en|av|de|sista|lyckades|klattra|upp|po|hoppa|ut|genom|fonstret|i|det|lilla|rummet|innanfor|entren
+[sample: 108, WER: 8.33333%, LER: 4%, slice WER: 23.0964%, slice LER: 11.0555%, progress: 90.1961%]
+|T|: som tyvarr kan ha nott sitt slut 
+|P|: som tillverkarna att sitt slut 
+|t|: som|tyvarr|kan|ha|nott|sitt|slut
+|p|: som|tillverkarna|att|sitt|slut
+[sample: 15, WER: 57.1429%, LER: 34.375%, slice WER: 25.2577%, slice LER: 13.0188%, progress: 96.0784%]
+|T|: darefter skulle en folkomrostning foretas om kolonins framtid 
+|P|: darefter skulle en folkomrostning foretas om kolonins framtid 
+|t|: darefter|skulle|en|folkomrostning|foretas|om|kolonins|framtid
+|p|: darefter|skulle|en|folkomrostning|foretas|om|kolonins|framtid
+[sample: 305, WER: 0%, LER: 0%, slice WER: 28.0206%, slice LER: 13.8991%, progress: 94.1176%]
+|T|: hilding brannstrom 
+|P|: hilding brannstrom 
+|t|: hilding|brannstrom
+|p|: hilding|brannstrom
+[sample: 134, WER: 0%, LER: 0%, slice WER: 25.1282%, slice LER: 12.9172%, progress: 98.0392%]
+|T|: ner 
+|P|: ner 
+|t|: ner
+|p|: ner
+[sample: 291, WER: 0%, LER: 0%, slice WER: 25.0639%, slice LER: 12.9004%, progress: 100%]
+|T|: inga-britt melin 
+|P|: inga-britt melin 
+|t|: inga-britt|melin
+|p|: inga-britt|melin
+[sample: 253, WER: 0%, LER: 0%, slice WER: 22.9798%, slice LER: 10.9822%, progress: 92.1569%]
+|T|: olafstrom 
+|P|: olafstrom 
+|t|: olafstrom
+|p|: olafstrom
+[sample: 256, WER: 0%, LER: 0%, slice WER: 22.9219%, slice LER: 10.9414%, progress: 94.1176%]
+|T|: slags 
+|P|: slags 
+|t|: slags
+|p|: slags
+[sample: 289, WER: 0%, LER: 0%, slice WER: 22.8643%, slice LER: 10.9188%, progress: 96.0784%]
+|T|: enligt lagen ska politikerna i sociala distriktsnamnden besluta 
+|P|: en de lagen ska politikerna i sociala distriktsnamnden besluta 
+|t|: enligt|lagen|ska|politikerna|i|sociala|distriktsnamnden|besluta
+|p|: en|de|lagen|ska|politikerna|i|sociala|distriktsnamnden|besluta
+[sample: 245, WER: 25%, LER: 6.34921%, slice WER: 17.0667%, slice LER: 7.96304%, progress: 88.2353%]
+|T|: in i det sista grubblar hon och konsulterar smakvilliga vanner om gloggens styrka 
+|P|: in ar det sista grubblar hon och konsulterar smakvilliga vanner om gloggens styrka 
+|t|: in|i|det|sista|grubblar|hon|och|konsulterar|smakvilliga|vanner|om|gloggens|styrka
+|p|: in|ar|det|sista|grubblar|hon|och|konsulterar|smakvilliga|vanner|om|gloggens|styrka
+[sample: 133, WER: 7.69231%, LER: 2.46914%, slice WER: 19.6335%, slice LER: 10.2922%, progress: 88.2353%]
+|T|: do kunde vi cykla forbi angarna och golfbanan 
+|P|: det kandes cykla forbi angarna och planen 
+|t|: do|kunde|vi|cykla|forbi|angarna|och|golfbanan
+|p|: det|kandes|cykla|forbi|angarna|och|planen
+[sample: 42, WER: 50%, LER: 24.4444%, slice WER: 28.4635%, slice LER: 14.0902%, progress: 96.0784%]
+|T|: gor 
+|P|: ar 
+|t|: gor
+|p|: ar
+[sample: 99, WER: 100%, LER: 66.6667%, slice WER: 28.6432%, slice LER: 14.1536%, progress: 98.0392%]
+|T|: korning 
+|P|: korning 
+|t|: korning
+|p|: korning
+[sample: 231, WER: 0%, LER: 0%, slice WER: 19.5822%, slice LER: 10.2609%, progress: 90.1961%]
+|T|: do blir det fortsatt otstramning for barnfamiljerna och de arbetslosa som redan betalat det hogsta priset for budgetsaneringen 
+|P|: blir fortsatt otstramning for barnfamiljerna och de arbetslosa som redan betalat det hogsta priset for budgetsaneringen 
+|t|: do|blir|det|fortsatt|otstramning|for|barnfamiljerna|och|de|arbetslosa|som|redan|betalat|det|hogsta|priset|for|budgetsaneringen
+|p|: blir|fortsatt|otstramning|for|barnfamiljerna|och|de|arbetslosa|som|redan|betalat|det|hogsta|priset|for|budgetsaneringen
+[sample: 40, WER: 11.1111%, LER: 5.55556%, slice WER: 21.1382%, slice LER: 10.2425%, progress: 92.1569%]
+|T|: det var ju bara sagt som en molning 
+|P|: det var ju bara sagt som en molning 
+|t|: det|var|ju|bara|sagt|som|en|molning
+|p|: det|var|ju|bara|sagt|som|en|molning
+[sample: 215, WER: 0%, LER: 0%, slice WER: 22.4138%, slice LER: 10.7636%, progress: 98.0392%]
+|T|: frogar 
+|P|: frogar 
+|t|: frogar
+|p|: frogar
+[sample: 95, WER: 0%, LER: 0%, slice WER: 22.3587%, slice LER: 10.7374%, progress: 100%]
+|T|: christer lof 
+|P|: kista lov 
+|t|: christer|lof
+|p|: kista|lov
+[sample: 197, WER: 100%, LER: 50%, slice WER: 29%, slice LER: 14.3257%, progress: 100%]
+|T|: som ung behovde hon bryta upp fron familjen for att finna ett eget liv 
+|P|: som ung dalum bryta upp fron familjen for att finna ett eget liv 
+|t|: som|ung|behovde|hon|bryta|upp|fron|familjen|for|att|finna|ett|eget|liv
+|p|: som|ung|dalum|bryta|upp|fron|familjen|for|att|finna|ett|eget|liv
+[sample: 132, WER: 14.2857%, LER: 14.2857%, slice WER: 16.9666%, slice LER: 8.15194%, progress: 90.1961%]
+|T|: hoa och tjoa och hoppas att personalen reagerar 
+|P|: hoa och tjoa hoppas att personalen hoger 
+|t|: hoa|och|tjoa|och|hoppas|att|personalen|reagerar
+|p|: hoa|och|tjoa|hoppas|att|personalen|hoger
+[sample: 333, WER: 25%, LER: 19.1489%, slice WER: 21.2202%, slice LER: 10.4141%, progress: 94.1176%]
+|T|: femtioett tusen tvohundrafemtioett 
+|P|: femtioett tusen tvohundrafemtioett 
+|t|: femtioett|tusen|tvohundrafemtioett
+|p|: femtioett|tusen|tvohundrafemtioett
+[sample: 374, WER: 0%, LER: 0%, slice WER: 21.0526%, slice LER: 10.2709%, progress: 96.0784%]
+|T|: i en dryg timme pogor en sorts ordrik forgoring i terapeutiskt oterhollen ton 
+|P|: en dryg timme pogor en sorts ordrik forgoring i terapeutiskt oterhollen ton 
+|t|: i|en|dryg|timme|pogor|en|sorts|ordrik|forgoring|i|terapeutiskt|oterhollen|ton
+|p|: en|dryg|timme|pogor|en|sorts|ordrik|forgoring|i|terapeutiskt|oterhollen|ton
+[sample: 148, WER: 7.69231%, LER: 2.5974%, slice WER: 19.1919%, slice LER: 10.0126%, progress: 92.1569%]
+|T|: trettio tusen sjuhundranittiotvo 
+|P|: trettio tusen sjuhundranittiotvo 
+|t|: trettio|tusen|sjuhundranittiotvo
+|p|: trettio|tusen|sjuhundranittiotvo
+[sample: 70, WER: 0%, LER: 0%, slice WER: 20.8877%, slice LER: 10.1397%, progress: 98.0392%]
+|T|: dragit 
+|P|: dragit 
+|t|: dragit
+|p|: dragit
+[sample: 287, WER: 0%, LER: 0%, slice WER: 20.8333%, slice LER: 10.1155%, progress: 100%]
+|T|: den har domen visar att jag handlade fullt korrekt 
+|P|: det har domen visar att de han att fullt korrekt 
+|t|: den|har|domen|visar|att|jag|handlade|fullt|korrekt
+|p|: det|har|domen|visar|att|de|han|att|fullt|korrekt
+[sample: 218, WER: 44.4444%, LER: 16%, slice WER: 19.7531%, slice LER: 10.136%, progress: 94.1176%]
+|T|: telefon 
+|P|: telefon 
+|t|: telefon
+|p|: telefon
+[sample: 172, WER: 0%, LER: 0%, slice WER: 19.7044%, slice LER: 10.1068%, progress: 96.0784%]
+|T|: testar en tvo tre fyra fem sex sju otta 
+|P|: testar en tvo tre fyra fem sex sju otta 
+|t|: testar|en|tvo|tre|fyra|fem|sex|sju|otta
+|p|: testar|en|tvo|tre|fyra|fem|sex|sju|otta
+[sample: 322, WER: 0%, LER: 0%, slice WER: 19.2771%, slice LER: 9.94743%, progress: 98.0392%]
+|T|: i den ekonomistiska ingenjorskonsten handlar politik inte om motstridiga intressen varderingskonflikter eller klasskamp 
+|P|: i den ekonomistiska in norsk konsten handlar politik inte motstridiga intressen varderingskonflikter eller klasskamp 
+|t|: i|den|ekonomistiska|ingenjorskonsten|handlar|politik|inte|om|motstridiga|intressen|varderingskonflikter|eller|klasskamp
+|p|: i|den|ekonomistiska|in|norsk|konsten|handlar|politik|inte|motstridiga|intressen|varderingskonflikter|eller|klasskamp
+[sample: 237, WER: 30.7692%, LER: 6.72269%, slice WER: 17.4129%, slice LER: 8.08286%, progress: 92.1569%]
+|T|: po vagverket kan man inte saga hur monga korkort det handlar om 
+|P|: po vagverket kan ar inte sager monga kok kopp handerna 
+|t|: po|vagverket|kan|man|inte|saga|hur|monga|korkort|det|handlar|om
+|p|: po|vagverket|kan|ar|inte|sager|monga|kok|kopp|handerna
+[sample: 111, WER: 58.3333%, LER: 30.1587%, slice WER: 20.3747%, slice LER: 10.4495%, progress: 100%]
+|T|: hon ville samla ihop ingredienser till en rejal soppa som kunde racka i monader 
+|P|: hon ville samla ihop ingredienser i all soppa som kunde racka i monader 
+|t|: hon|ville|samla|ihop|ingredienser|till|en|rejal|soppa|som|kunde|racka|i|monader
+|p|: hon|ville|samla|ihop|ingredienser|i|all|soppa|som|kunde|racka|i|monader
+[sample: 9, WER: 21.4286%, LER: 12.6582%, slice WER: 17.5481%, slice LER: 8.22511%, progress: 94.1176%]
+|T|: tre sju tre tre trettiotre sjuhundrasjuttiosex 
+|P|: tre sju tre tre trettiotre sjuhundrasjuttiosex 
+|t|: tre||sju||tre||tre||trettiotre||sjuhundrasjuttiosex
+|p|: tre|sju|tre|tre|trettiotre|sjuhundrasjuttiosex
+[sample: 176, WER: 0%, LER: 9.80392%, slice WER: 17.2986%, slice LER: 8.25617%, progress: 96.0784%]
+|T|: mycket av biobranslena ar avfall som annars bara skulle go till spillo exempelvis trad och grenar fron skogsavverkningen 
+|P|: mycket av biobranslena ar avfall som annars bara skulle go till spillo exempelvis trad grenar fron skogsavverkningen 
+|t|: mycket|av|biobranslena|ar|avfall|som|annars|bara|skulle|go|till|spillo|exempelvis|trad|och|grenar|fron|skogsavverkningen
+|p|: mycket|av|biobranslena|ar|avfall|som|annars|bara|skulle|go|till|spillo|exempelvis|trad|grenar|fron|skogsavverkningen
+[sample: 375, WER: 5.55556%, LER: 3.33333%, slice WER: 16.8182%, slice LER: 8.03835%, progress: 98.0392%]
+|T|: frascha upp 
+|P|: foretag upp 
+|t|: frascha|upp
+|p|: foretag|upp
+[sample: 64, WER: 50%, LER: 54.5455%, slice WER: 16.9683%, slice LER: 8.22622%, progress: 100%]
